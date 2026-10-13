@@ -1,0 +1,423 @@
+{
+ "real_c2": {
+  "host": "www.minha.cc",
+  "slot_index": 11,
+  "entry": 12,
+  "path": "/36vc/"
+ },
+ "prefix": "www.",
+ "slot_order": [
+  4,
+  49,
+  63,
+  1,
+  34,
+  61,
+  64,
+  50,
+  9,
+  26,
+  8,
+  12,
+  19,
+  30,
+  59,
+  60
+ ],
+ "decoys": [
+  {
+   "index": 1,
+   "producer": "0x2610",
+   "domain": "smardadosenatu.cloud",
+   "path": "/mkdy/"
+  },
+  {
+   "index": 2,
+   "producer": "0x2680",
+   "domain": "banoffice.team",
+   "path": "/1xx6/"
+  },
+  {
+   "index": 3,
+   "producer": "0x26e0",
+   "domain": "nowvideo.li",
+   "path": "/4hfb/"
+  },
+  {
+   "index": 4,
+   "producer": "0x2740",
+   "domain": "amp-mariatogel.com",
+   "path": "/876i/"
+  },
+  {
+   "index": 5,
+   "producer": "0x27b0",
+   "domain": "movilidad.com.co",
+   "path": "/wb9v/"
+  },
+  {
+   "index": 6,
+   "producer": "0x2820",
+   "domain": "supersloteasy.com",
+   "path": "/1ub8/"
+  },
+  {
+   "index": 7,
+   "producer": "0x2890",
+   "domain": "lhw18924a1.cfd",
+   "path": "/fl4z/"
+  },
+  {
+   "index": 8,
+   "producer": "0x28f0",
+   "domain": "eolienzaer.com",
+   "path": "/v5tr/"
+  },
+  {
+   "index": 9,
+   "producer": "0x2950",
+   "domain": "jts6831897.casa",
+   "path": "/kc5s/"
+  },
+  {
+   "index": 10,
+   "producer": "0x29b0",
+   "domain": "tv-51cao.cc",
+   "path": "/e1vw/"
+  },
+  {
+   "index": 11,
+   "producer": "0x2a10",
+   "domain": "kereszturicatering.hu",
+   "path": "/w9jk/"
+  },
+  {
+   "index": 12,
+   "producer": "0x2a80",
+   "domain": "templatemonster.com",
+   "path": "/36vc/"
+  },
+  {
+   "index": 13,
+   "producer": "0x2af0",
+   "domain": "unggul68.com",
+   "path": "/9i8u/"
+  },
+  {
+   "index": 14,
+   "producer": "0x2b50",
+   "domain": "erikovo.ru",
+   "path": "/lbpf/"
+  },
+  {
+   "index": 15,
+   "producer": "0x2bb0",
+   "domain": "getcodeaudit.co.uk",
+   "path": "/vxqz/"
+  },
+  {
+   "index": 16,
+   "producer": "0x2c20",
+   "domain": "adndigital.com.mx",
+   "path": "/skmn/"
+  },
+  {
+   "index": 17,
+   "producer": "0x2c90",
+   "domain": "leveluphealth.online",
+   "path": "/bc57/"
+  },
+  {
+   "index": 18,
+   "producer": "0x2d00",
+   "domain": "asklepiachat.com",
+   "path": "/vuun/"
+  },
+  {
+   "index": 19,
+   "producer": "0x2d70",
+   "domain": "torrentfunk.com",
+   "path": "/rwos/"
+  },
+  {
+   "index": 20,
+   "producer": "0x2dd0",
+   "domain": "roamago.com",
+   "path": "/tqap/"
+  },
+  {
+   "index": 21,
+   "producer": "0x2e30",
+   "domain": null,
+   "path": "/v7fe/"
+  },
+  {
+   "index": 22,
+   "producer": "0x2e90",
+   "domain": "danxenvi.site",
+   "path": "/7whg/"
+  },
+  {
+   "index": 23,
+   "producer": "0x2ef0",
+   "domain": "mimao.net",
+   "path": "/1try/"
+  },
+  {
+   "index": 24,
+   "producer": "0x2f40",
+   "domain": "francisandduffy.com",
+   "path": "/ml5l/"
+  },
+  {
+   "index": 25,
+   "producer": "0x2fb0",
+   "domain": "22374744.xyz",
+   "path": "/74ou/"
+  },
+  {
+   "index": 26,
+   "producer": "0x3010",
+   "domain": "zyjcwg.com",
+   "path": "/ylmm/"
+  },
+  {
+   "index": 27,
+   "producer": "0x3070",
+   "domain": "huahud.cc",
+   "path": "/l83v/"
+  },
+  {
+   "index": 28,
+   "producer": "0x30c0",
+   "domain": "parenting-attuned.com",
+   "path": "/m7dw/"
+  },
+  {
+   "index": 29,
+   "producer": "0x3130",
+   "domain": "2863006.com",
+   "path": "/1a8a/"
+  },
+  {
+   "index": 30,
+   "producer": "0x3190",
+   "domain": "codexabd.online",
+   "path": "/lag0/"
+  },
+  {
+   "index": 31,
+   "producer": "0x31f0",
+   "domain": "horus.ax",
+   "path": "/lzqe/"
+  },
+  {
+   "index": 32,
+   "producer": "0x3240",
+   "domain": "revelintravel.com",
+   "path": "/1e2r/"
+  },
+  {
+   "index": 33,
+   "producer": "0x32b0",
+   "domain": "nexgenad.in",
+   "path": "/0pbf/"
+  },
+  {
+   "index": 34,
+   "producer": "0x3310",
+   "domain": "hbaosite.com",
+   "path": "/ua93/"
+  },
+  {
+   "index": 35,
+   "producer": "0x3370",
+   "domain": "claim.fun",
+   "path": "/kmgk/"
+  },
+  {
+   "index": 36,
+   "producer": "0x33c0",
+   "domain": "infyryx.com",
+   "path": "/i557/"
+  },
+  {
+   "index": 37,
+   "producer": "0x3420",
+   "domain": "mzt.co.jp",
+   "path": "/l66s/"
+  },
+  {
+   "index": 38,
+   "producer": "0x3470",
+   "domain": "b-transfer.pl",
+   "path": "/becc/"
+  },
+  {
+   "index": 39,
+   "producer": "0x34d0",
+   "domain": "tovima.gr",
+   "path": "/64m5/"
+  },
+  {
+   "index": 40,
+   "producer": "0x3520",
+   "domain": "odvavry.cz",
+   "path": "/6e0a/"
+  },
+  {
+   "index": 41,
+   "producer": "0x3580",
+   "domain": "ellascantanalamor.com",
+   "path": "/1y6y/"
+  },
+  {
+   "index": 42,
+   "producer": "0x35f0",
+   "domain": "pmbikes.net",
+   "path": "/hofw/"
+  },
+  {
+   "index": 43,
+   "producer": "0x3650",
+   "domain": "1sjkd.asia",
+   "path": "/4hsc/"
+  },
+  {
+   "index": 44,
+   "producer": "0x36b0",
+   "domain": "czcw.cc",
+   "path": "/lrj9/"
+  },
+  {
+   "index": 45,
+   "producer": "0x3700",
+   "domain": "basaltatm.com",
+   "path": "/giii/"
+  },
+  {
+   "index": 46,
+   "producer": "0x3760",
+   "domain": "rosebol.com",
+   "path": "/s1i9/"
+  },
+  {
+   "index": 47,
+   "producer": "0x37c0",
+   "domain": "deviceloop.co",
+   "path": "/4fq6/"
+  },
+  {
+   "index": 48,
+   "producer": "0x3820",
+   "domain": "monilop.site",
+   "path": "/0oal/"
+  },
+  {
+   "index": 49,
+   "producer": "0x3880",
+   "domain": "izzyartdigital.com",
+   "path": "/oesx/"
+  },
+  {
+   "index": 50,
+   "producer": "0x38f0",
+   "domain": "ingatangajahacademy.id",
+   "path": "/ls6o/"
+  },
+  {
+   "index": 51,
+   "producer": "0x3960",
+   "domain": "starkeon.digital",
+   "path": "/sgqp/"
+  },
+  {
+   "index": 52,
+   "producer": "0x39d0",
+   "domain": "optimatrademsk.ru",
+   "path": "/f8y2/"
+  },
+  {
+   "index": 53,
+   "producer": "0x3a40",
+   "domain": "cityofharare.com",
+   "path": "/f41t/"
+  },
+  {
+   "index": 54,
+   "producer": "0x3ab0",
+   "domain": "aurumassist.africa",
+   "path": "/7jqb/"
+  },
+  {
+   "index": 55,
+   "producer": "0x3b20",
+   "domain": "grischaenergy.ch",
+   "path": "/zv7k/"
+  },
+  {
+   "index": 56,
+   "producer": "0x3b90",
+   "domain": "qunvero.shop",
+   "path": "/xjob/"
+  },
+  {
+   "index": 57,
+   "producer": "0x3bf0",
+   "domain": "semporaviona.world",
+   "path": "/8ann/"
+  },
+  {
+   "index": 58,
+   "producer": "0x3c60",
+   "domain": "torrentz.com",
+   "path": "/q1d9/"
+  },
+  {
+   "index": 59,
+   "producer": "0x3cc0",
+   "domain": "yyqvoluatquiur2.top",
+   "path": "/9i1k/"
+  },
+  {
+   "index": 60,
+   "producer": "0x3d30",
+   "domain": "pepeuncle.top",
+   "path": "/b91i/"
+  },
+  {
+   "index": 61,
+   "producer": "0x3d90",
+   "domain": "creati.store",
+   "path": "/c1sq/"
+  },
+  {
+   "index": 62,
+   "producer": "0x3df0",
+   "domain": "bagolone.it",
+   "path": "/vxxn/"
+  },
+  {
+   "index": 63,
+   "producer": "0x3e50",
+   "domain": "sednin.top",
+   "path": "/srwn/"
+  },
+  {
+   "index": 64,
+   "producer": "0x3eb0",
+   "domain": "bridgeapp.online",
+   "path": "/otbq/"
+  }
+ ],
+ "parsed_inputs": {
+  "string_base": "655cf07fe1b8a927a95efe94656677b692662000",
+  "entry_key_base": "85c4e8867c5de18dcd75b4fc076f0f59e8213665",
+  "seed": "0x99db1354",
+  "shared_key": "739469ef3ee0bc8fcf1895c52f2fe741a16eaea6",
+  "path_key_base": "9d796495d9749ab185b552641e0c21b81b6a49bd",
+  "real_key_a": "2a4cf2fcac23377e63594abc15c7ab1361197ce0",
+  "real_key_b": "5beaa81beb7597da46d75827f741e55df8942e03",
+  "real_b64": "n8F/qFx/aS095PY6"
+ }
+}

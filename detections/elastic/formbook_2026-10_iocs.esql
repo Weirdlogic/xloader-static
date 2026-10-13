@@ -1,0 +1,10 @@
+// Title:   Formbook stego-loader sample - hash sweep
+// Report:  reports/formbook/2026-10-13-0404070ceb26/report.md
+// Product: Elastic Security ES|QL over Elastic Defend data
+FROM logs-endpoint.events.*
+| WHERE @timestamp > NOW() - 30 days
+| WHERE process.hash.sha256 == "0404070ceb269b1590a7d600bf02f47ed8559d02ef247d54f491ccd529828f26"
+     OR file.hash.sha256    == "0404070ceb269b1590a7d600bf02f47ed8559d02ef247d54f491ccd529828f26"
+| KEEP @timestamp, host.name, user.name, event.category, event.action,
+       process.executable, process.parent.name, file.path
+| SORT @timestamp DESC

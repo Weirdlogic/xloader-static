@@ -1,0 +1,24 @@
+// Title:   Formbook stego-loader sample - hash and lure sweep
+// Report:  reports/formbook/2026-10-13-0404070ceb26/report.md
+// Product: Microsoft Defender XDR advanced hunting
+// Status:  IOC sweep (exact hash) + one lure heuristic. Hashes go stale fast;
+//          the behavioural query msil_stego_loader_execution.kql is the durable one.
+let sha256s = dynamic([
+    "0404070ceb269b1590a7d600bf02f47ed8559d02ef247d54f491ccd529828f26"
+]);
+let lookback = 30d;
+union
+    (DeviceFileEvents    | where Timestamp > ago(lookback) | where SHA256 in (sha256s)
+        | project Timestamp, Source = "DeviceFileEvents", DeviceName, FileName, FolderPath, SHA256, ActionType),
+    (DeviceProcessEvents | where Timestamp > ago(lookback) | where SHA256 in (sha256s)
+        | project Timestamp, Source = "DeviceProcessEvents", DeviceName, FileName, FolderPath, SHA256, ActionType),
+    (EmailAttachmentInfo | where Timestamp > ago(lookback) | where SHA256 in (sha256s)
+        | project Timestamp, Source = "EmailAttachmentInfo", DeviceName = RecipientEmailAddress,
+                  FileName, FolderPath = SenderFromAddress, SHA256, ActionType = FileType),
+    // Lure heuristic: the sample was delivered by email as "...NEW_SHIPMENT_DETAIL.bat"
+    // although it is a PE executable. Validate FileType values in your tenant first.
+    (EmailAttachmentInfo | where Timestamp > ago(lookback)
+        | where FileName endswith ".bat" and FileType in~ ("exe", "dll", "pe")
+        | project Timestamp, Source = "EmailAttachmentInfo:bat-is-PE", DeviceName = RecipientEmailAddress,
+                  FileName, FolderPath = SenderFromAddress, SHA256, ActionType = FileType)
+| order by Timestamp desc

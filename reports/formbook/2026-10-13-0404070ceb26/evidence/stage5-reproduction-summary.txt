@@ -1,0 +1,8 @@
+ "missing_regions": [],
+ "missing_eggs": [],
+ "sha256": "0cdbe29c1e09826fbd0bf100217149716b7b096edfeae2b1bccd5da0974d6da2"
+}
+{"host": "www.minha.cc", "slot_index": 11, "entry": 12, "path": "/36vc/"} | decoys with domain: 63
+a0588c553619f40b3563ba701f0bde5e3330beb3552f16dd2baa136dd6acabbb  /tmp/claude-1000/-home-adeyimika-Documents-peidik/14e88871-0a86-4233-b17e-a5ecedbd3e10/scratchpad/repro_1791934654/stage5.bin
+0cdbe29c1e09826fbd0bf100217149716b7b096edfeae2b1bccd5da0974d6da2  /tmp/claude-1000/-home-adeyimika-Documents-peidik/14e88871-0a86-4233-b17e-a5ecedbd3e10/scratchpad/repro_1791934654/stage5_decrypted.bin
+real C2 match: True | decoy differences: [] | slot order match: True

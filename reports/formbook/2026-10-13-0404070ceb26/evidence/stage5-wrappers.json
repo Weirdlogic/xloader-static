@@ -1,0 +1,621 @@
+{
+ "note": "Egg-wrapper constants parsed from the Ghidra decompilations (c34 = planted mask half, start/end egg ciphertext, wrapped target). Constants only; no decompiled code.",
+ "wrappers": [
+  {
+   "wrapper": "FUN_000266b0",
+   "c34": "1d3a450c",
+   "start_ct": "ca3a9296d9f7",
+   "end_ct": "639d368e2be7",
+   "target": "0xe3b0"
+  },
+  {
+   "wrapper": "FUN_00026720",
+   "c34": "38338da0",
+   "start_ct": "6f95dd6b7804",
+   "end_ct": "82a6a58dcbe5",
+   "target": "0x15bd0"
+  },
+  {
+   "wrapper": "FUN_000267a0",
+   "c34": "e24e3c60",
+   "start_ct": "63bbc318dab5",
+   "end_ct": "d17d0bdc045b",
+   "target": "0x26120"
+  },
+  {
+   "wrapper": "FUN_00026820",
+   "c34": "14950b0e",
+   "start_ct": "6c00c6694068",
+   "end_ct": "1616d9edd413",
+   "target": "0x19400"
+  },
+  {
+   "wrapper": "FUN_000268b0",
+   "c34": "9ff86d06",
+   "start_ct": "de34bb53479c",
+   "end_ct": "f0238af12ee1",
+   "target": "0x19970"
+  },
+  {
+   "wrapper": "FUN_00026930",
+   "c34": "e5d50766",
+   "start_ct": "860108a53ba6",
+   "end_ct": "558bfcabbdb6",
+   "target": "0xf3e0"
+  },
+  {
+   "wrapper": "FUN_000269b0",
+   "c34": "6142e9a2",
+   "start_ct": "6b4f8acee06b",
+   "end_ct": "3e711e619013",
+   "target": "0x16370"
+  },
+  {
+   "wrapper": "FUN_00026a20",
+   "c34": "66e8d562",
+   "start_ct": "140c68cab66f",
+   "end_ct": "433d4f05cfe8",
+   "target": "0x7660"
+  },
+  {
+   "wrapper": "FUN_00026a90",
+   "c34": "5295a968",
+   "start_ct": "84c629c25832",
+   "end_ct": "ffd3147ed644",
+   "target": "0x7920"
+  },
+  {
+   "wrapper": "FUN_00026b10",
+   "c34": "e858a9d8",
+   "start_ct": "f4e99fbaeeab",
+   "end_ct": "3e4aa3354ae8",
+   "target": "0x11e70"
+  },
+  {
+   "wrapper": "FUN_00026ba0",
+   "c34": "879be798",
+   "start_ct": "4554ec008744",
+   "end_ct": "f5f1c53f09dc",
+   "target": "0x11b90"
+  },
+  {
+   "wrapper": "FUN_00026c30",
+   "c34": "810312c8",
+   "start_ct": "f08d9d8164bf",
+   "end_ct": "706c4abaab8a",
+   "target": "0x12340"
+  },
+  {
+   "wrapper": "FUN_00026d30",
+   "c34": "2b678884",
+   "start_ct": "85ce009d53cd",
+   "end_ct": "d45634b3d5d6",
+   "target": "0x230a0"
+  },
+  {
+   "wrapper": "FUN_00026dc0",
+   "c34": "e0a52ca3",
+   "start_ct": "57c8cd24ef51",
+   "end_ct": "aa85b31acf51",
+   "target": "0x12650"
+  },
+  {
+   "wrapper": "FUN_00026e50",
+   "c34": "20fa8875",
+   "start_ct": "a65a70648177",
+   "end_ct": "00c90aee5576",
+   "target": "0x131a0"
+  },
+  {
+   "wrapper": "FUN_00026ec0",
+   "c34": "159c352e",
+   "start_ct": "f5e547a5a938",
+   "end_ct": "1e3e8ecead42",
+   "target": "0x16d30"
+  },
+  {
+   "wrapper": "FUN_00026f40",
+   "c34": "2b26d3c0",
+   "start_ct": "c2f509d6396b",
+   "end_ct": "68de47595162",
+   "target": "0x16a00"
+  },
+  {
+   "wrapper": "FUN_00026fd0",
+   "c34": "ad4f474c",
+   "start_ct": "bf8256ffdab4",
+   "end_ct": "3f9ecd010a49",
+   "target": "0x18460"
+  },
+  {
+   "wrapper": "FUN_00027040",
+   "c34": "6e002b78",
+   "start_ct": "9af44fadbf59",
+   "end_ct": "224e39fa2484",
+   "target": "0x18940"
+  },
+  {
+   "wrapper": "FUN_000270b0",
+   "c34": "39f2869a",
+   "start_ct": "c077e542907a",
+   "end_ct": "4ad009194b1b",
+   "target": "0x18630"
+  },
+  {
+   "wrapper": "FUN_00027120",
+   "c34": "9a7f8c3e",
+   "start_ct": "82a1d68fcb01",
+   "end_ct": "4e1efa4af8ad",
+   "target": "0x22a40"
+  },
+  {
+   "wrapper": "FUN_000271b0",
+   "c34": "ee3d0dd0",
+   "start_ct": "3d055768f324",
+   "end_ct": "f791a9d5ba9d",
+   "target": "0x22ca0"
+  },
+  {
+   "wrapper": "FUN_00027240",
+   "c34": "241ed83c",
+   "start_ct": "cc7f3684d6e2",
+   "end_ct": "7543296fb74a",
+   "target": "0x13460"
+  },
+  {
+   "wrapper": "FUN_000272b0",
+   "c34": "5d048dc4",
+   "start_ct": "ae3f643fcbea",
+   "end_ct": "00d22a52105b",
+   "target": "0x13970"
+  },
+  {
+   "wrapper": "FUN_00027330",
+   "c34": "cc9c9b54",
+   "start_ct": "9a21de5c7755",
+   "end_ct": "b7ce15a42fc2",
+   "target": "0x13d70"
+  },
+  {
+   "wrapper": "FUN_000273b0",
+   "c34": "e5d6e08b",
+   "start_ct": "4e0490b0f8dc",
+   "end_ct": "c1edddc912ca",
+   "target": "0x13e40"
+  },
+  {
+   "wrapper": "FUN_00027430",
+   "c34": "3576528c",
+   "start_ct": "f02ec744bff7",
+   "end_ct": "232d34661f3e",
+   "target": "0x14000"
+  },
+  {
+   "wrapper": "FUN_000274b0",
+   "c34": "370e9f0f",
+   "start_ct": "616ce0cc41aa",
+   "end_ct": "825d10dd1683",
+   "target": "0x2b730"
+  },
+  {
+   "wrapper": "FUN_00027530",
+   "c34": "1580ee6c",
+   "start_ct": "b3190664d830",
+   "end_ct": "3dfd573de16e",
+   "target": "0x2ae80"
+  },
+  {
+   "wrapper": "FUN_000275a0",
+   "c34": "a6530778",
+   "start_ct": "99e4cc6bd668",
+   "end_ct": "46bf6e9da8d0",
+   "target": "0x24fe0"
+  },
+  {
+   "wrapper": "FUN_00027710",
+   "c34": "318f7921",
+   "start_ct": "644f70525310",
+   "end_ct": "966da25ccc59",
+   "target": "0x2c200"
+  },
+  {
+   "wrapper": "FUN_00027790",
+   "c34": "9a700953",
+   "start_ct": "c7be8ead4ed2",
+   "end_ct": "45b0e91a312e",
+   "target": "0x22690"
+  },
+  {
+   "wrapper": "FUN_00027820",
+   "c34": "1c0e3f20",
+   "start_ct": "d96bcdfa6d08",
+   "end_ct": "7faa4c809f66",
+   "target": "0x10470"
+  },
+  {
+   "wrapper": "FUN_000278a0",
+   "c34": "cf106764",
+   "start_ct": "31a983fd9588",
+   "end_ct": "f99a8f4cb040",
+   "target": "0x106f0"
+  },
+  {
+   "wrapper": "FUN_00027920",
+   "c34": "5c8cf61e",
+   "start_ct": "b43e43c85763",
+   "end_ct": "e5119a2b6291",
+   "target": "0x10a00"
+  },
+  {
+   "wrapper": "FUN_000279a0",
+   "c34": "549e3344",
+   "start_ct": "0170a7cd7e96",
+   "end_ct": "b03c1f559482",
+   "target": "0x10ce0"
+  },
+  {
+   "wrapper": "FUN_00027a20",
+   "c34": "710c2272",
+   "start_ct": "9de067283c4f",
+   "end_ct": "95dfcc2417e4",
+   "target": "0x1b20"
+  },
+  {
+   "wrapper": "FUN_00027aa0",
+   "c34": "fa6e7660",
+   "start_ct": "1a2b4ee33b90",
+   "end_ct": "ee0eb3bc66b6",
+   "target": "0x25670"
+  },
+  {
+   "wrapper": "FUN_00027b20",
+   "c34": "7fa72d6c",
+   "start_ct": "6453854c6715",
+   "end_ct": "eab3a862a2fc",
+   "target": "0x25aa0"
+  },
+  {
+   "wrapper": "FUN_00027ba0",
+   "c34": "b7a7f13a",
+   "start_ct": "289e93e9d74c",
+   "end_ct": "3988747591dc",
+   "target": "0x114d0"
+  },
+  {
+   "wrapper": "FUN_00027c20",
+   "c34": "67a52b0e",
+   "start_ct": "ba995bc7365e",
+   "end_ct": "8158681a3468",
+   "target": "0x115d0"
+  },
+  {
+   "wrapper": "FUN_00027c90",
+   "c34": "d2a497bc",
+   "start_ct": "7ad0da77f45a",
+   "end_ct": "6ef355ff8848",
+   "target": "0x11810"
+  },
+  {
+   "wrapper": "FUN_00027d10",
+   "c34": "9a2cdcd8",
+   "start_ct": "76dfa25c2000",
+   "end_ct": "02f9082b792c",
+   "target": "0x156a0"
+  },
+  {
+   "wrapper": "FUN_00027d80",
+   "c34": "b16236e8",
+   "start_ct": "1b6063fa52f2",
+   "end_ct": "6d9d69e44c68",
+   "target": "0xf180"
+  },
+  {
+   "wrapper": "FUN_00027e00",
+   "c34": "d6841b4c",
+   "start_ct": "09abbf560fec",
+   "end_ct": "014c95ee1eb5",
+   "target": "0xf7e0"
+  },
+  {
+   "wrapper": "FUN_00027e80",
+   "c34": "1f2fa9c4",
+   "start_ct": "1101231dcce8",
+   "end_ct": "5f92d3aff229",
+   "target": "0xff20"
+  },
+  {
+   "wrapper": "FUN_00027f00",
+   "c34": "acaa2bb2",
+   "start_ct": "cc7ec0d87c3b",
+   "end_ct": "af185834db28",
+   "target": "0x10350"
+  },
+  {
+   "wrapper": "FUN_00027f80",
+   "c34": "c87085b6",
+   "start_ct": "25bf802f6ec5",
+   "end_ct": "809be1308fb9",
+   "target": "0x236a0"
+  },
+  {
+   "wrapper": "FUN_00028000",
+   "c34": "0d4f9c60",
+   "start_ct": "08371d5a3ca4",
+   "end_ct": "e7551e4a60b8",
+   "target": "0x11230"
+  },
+  {
+   "wrapper": "FUN_00028070",
+   "c34": "1cd8eada",
+   "start_ct": "eeb0cb400265",
+   "end_ct": "a2e75413add2",
+   "target": "0x110a0"
+  },
+  {
+   "wrapper": "FUN_000280f0",
+   "c34": "9722f218",
+   "start_ct": "d6913f30a4de",
+   "end_ct": "414d85daec2b",
+   "target": "0x22310"
+  },
+  {
+   "wrapper": "FUN_00028170",
+   "c34": "cddc7474",
+   "start_ct": "291396b9b1bb",
+   "end_ct": "34e8f0bee4fe",
+   "target": "0x21e70"
+  },
+  {
+   "wrapper": "FUN_000281f0",
+   "c34": "48ea3494",
+   "start_ct": "ad2fc40366b1",
+   "end_ct": "edff230f780d",
+   "target": "0x21d00"
+  },
+  {
+   "wrapper": "FUN_00028270",
+   "c34": "a57347a8",
+   "start_ct": "5aba8d3e9ce4",
+   "end_ct": "4f533d6ac130",
+   "target": "0x1ae30"
+  },
+  {
+   "wrapper": "FUN_000282e0",
+   "c34": "7ac528f6",
+   "start_ct": "14e58f0f89fe",
+   "end_ct": "0d28785fc560",
+   "target": "0x1e2a0"
+  },
+  {
+   "wrapper": "FUN_00028350",
+   "c34": "ebb70864",
+   "start_ct": "2dd3cb4894a0",
+   "end_ct": "f3b4d97c9ab5",
+   "target": "0x1e5b0"
+  },
+  {
+   "wrapper": "FUN_000283c0",
+   "c34": "6bd4ee10",
+   "start_ct": "aac435b57c67",
+   "end_ct": "2b44f74543cc",
+   "target": "0x1e090"
+  },
+  {
+   "wrapper": "FUN_00028440",
+   "c34": "9c3efedc",
+   "start_ct": "512cfecce1b0",
+   "end_ct": "4c6fb08de6c9",
+   "target": "0x1dc10"
+  },
+  {
+   "wrapper": "FUN_000284c0",
+   "c34": "59c33c3e",
+   "start_ct": "e11371ad6f07",
+   "end_ct": "04cbcfb9dafe",
+   "target": "0x1d890"
+  },
+  {
+   "wrapper": "FUN_00028530",
+   "c34": "0c685a35",
+   "start_ct": "bd499e12fd90",
+   "end_ct": "4a53d65f4f66",
+   "target": "0x1aa40"
+  },
+  {
+   "wrapper": "FUN_000285a0",
+   "c34": "b37a06a0",
+   "start_ct": "a7c090f6bcb3",
+   "end_ct": "ef36ffdc1373",
+   "target": "0x1f2c0"
+  },
+  {
+   "wrapper": "FUN_00028630",
+   "c34": "07949bac",
+   "start_ct": "488920fa18f4",
+   "end_ct": "4d20eccf9a7b",
+   "target": "0x1ef80"
+  },
+  {
+   "wrapper": "FUN_000286b0",
+   "c34": "6dab4586",
+   "start_ct": "324562175fb3",
+   "end_ct": "02be235332d9",
+   "target": "0x1ead0"
+  },
+  {
+   "wrapper": "FUN_00028750",
+   "c34": "e5a6b7e3",
+   "start_ct": "9c31ef18a45f",
+   "end_ct": "3146bcce826c",
+   "target": "0x1f810"
+  },
+  {
+   "wrapper": "FUN_000287d0",
+   "c34": "1e90aec8",
+   "start_ct": "00d87657ccb5",
+   "end_ct": "c57d934b0bc4",
+   "target": "0x1f460"
+  },
+  {
+   "wrapper": "FUN_00028860",
+   "c34": "aa6274e3",
+   "start_ct": "fb446777a77b",
+   "end_ct": "98956b2610e9",
+   "target": "0x1d3a0"
+  },
+  {
+   "wrapper": "FUN_000288e0",
+   "c34": "98c4b9a6",
+   "start_ct": "4541ec0c604d",
+   "end_ct": "3186b12f0ee1",
+   "target": "0x1c650"
+  },
+  {
+   "wrapper": "FUN_00028970",
+   "c34": "1d7b3b55",
+   "start_ct": "04427c3d3419",
+   "end_ct": "a58f771cebaf",
+   "target": "0x1c9a0"
+  },
+  {
+   "wrapper": "FUN_000289f0",
+   "c34": "174e876b",
+   "start_ct": "5fbfe74d80b5",
+   "end_ct": "56d489fcaf36",
+   "target": "0x1cfe0"
+  },
+  {
+   "wrapper": "FUN_00028a80",
+   "c34": "56c301ea",
+   "start_ct": "3637383a3173",
+   "end_ct": "4e3bdd773a0a",
+   "target": "0x1fb50"
+  },
+  {
+   "wrapper": "FUN_00028af0",
+   "c34": "ebe6e31e",
+   "start_ct": "79d23a336a01",
+   "end_ct": "be47b0e49523",
+   "target": "0x1fc60"
+  },
+  {
+   "wrapper": "FUN_00028b70",
+   "c34": "803c2e6c",
+   "start_ct": "75b55eda78d1",
+   "end_ct": "4577ed10487b",
+   "target": "0x208c0"
+  },
+  {
+   "wrapper": "FUN_00028bf0",
+   "c34": "48294838",
+   "start_ct": "59cfa34757f0",
+   "end_ct": "eb826f1dd7f9",
+   "target": "0x20520"
+  },
+  {
+   "wrapper": "FUN_00028c80",
+   "c34": "34f6a296",
+   "start_ct": "086d8bdd7e7d",
+   "end_ct": "0af93e793f4d",
+   "target": "0x4730"
+  },
+  {
+   "wrapper": "FUN_00028d00",
+   "c34": "9ffa6598",
+   "start_ct": "0ca6f3d61f45",
+   "end_ct": "892c386b2cdf",
+   "target": "0x6bd0"
+  },
+  {
+   "wrapper": "FUN_00028d70",
+   "c34": "d43945fa",
+   "start_ct": "7698e2b2d6c2",
+   "end_ct": "57c696954900",
+   "target": "0x6290"
+  },
+  {
+   "wrapper": "FUN_00028df0",
+   "c34": "3f803534",
+   "start_ct": "1fa5a3ae6789",
+   "end_ct": "9d438d3c312b",
+   "target": "0x44d0"
+  },
+  {
+   "wrapper": "FUN_00028e60",
+   "c34": "c7edea7e",
+   "start_ct": "04f3539351f1",
+   "end_ct": "ca9b662ab414",
+   "target": "0xe6b0"
+  },
+  {
+   "wrapper": "FUN_00028ee0",
+   "c34": "079e1250",
+   "start_ct": "dfd5ecd06dce",
+   "end_ct": "3f44f7da52da",
+   "target": "0x239d0"
+  },
+  {
+   "wrapper": "FUN_00028f50",
+   "c34": "71dc7f38",
+   "start_ct": "f9c55eeee8c4",
+   "end_ct": "b42e5e26f52d",
+   "target": "0x12b90"
+  },
+  {
+   "wrapper": "FUN_00028fc0",
+   "c34": "2deb5fdd",
+   "start_ct": "ed8c7dc59bc0",
+   "end_ct": "849abf75bffb",
+   "target": "0x5b30"
+  },
+  {
+   "wrapper": "FUN_00029030",
+   "c34": "c594ee54",
+   "start_ct": "a7011b52c4b1",
+   "end_ct": "8927bea42d01",
+   "target": "0x15e60"
+  },
+  {
+   "wrapper": "FUN_000290a0",
+   "c34": "ef7ee863",
+   "start_ct": "a1379a227e6a",
+   "end_ct": "64b352eae9bb",
+   "target": "0x8440"
+  },
+  {
+   "wrapper": "FUN_00029130",
+   "c34": "2dc23164",
+   "start_ct": "28650a56fd08",
+   "end_ct": "1e6d6034f112",
+   "target": "0x144e0"
+  },
+  {
+   "wrapper": "FUN_000291a0",
+   "c34": "cbf9f780",
+   "start_ct": "119d2a945214",
+   "end_ct": "bcad2696f6cc",
+   "target": "0x7f50"
+  },
+  {
+   "wrapper": "FUN_00029210",
+   "c34": "79fbcec0",
+   "start_ct": "ff38e5f9224f",
+   "end_ct": "88817926cdec",
+   "target": "0x14f30"
+  },
+  {
+   "wrapper": "FUN_00029290",
+   "c34": "614185ac",
+   "start_ct": "3f5b908e132d",
+   "end_ct": "c2001e3b1b62",
+   "target": "0x150a0"
+  },
+  {
+   "wrapper": "FUN_00029300",
+   "c34": "eb54ba20",
+   "start_ct": "6cddf0a2482c",
+   "end_ct": "52f2ba28a014",
+   "target": "0x4cf0"
+  }
+ ]
+}

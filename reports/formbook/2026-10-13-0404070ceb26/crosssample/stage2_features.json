@@ -1,0 +1,158 @@
+[
+ {
+  "stage2": "031f5387e15cb20e",
+  "lines": 3381,
+  "Sleep(24005)": true,
+  "Sleep(any)": [
+   "24005"
+  ],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": true,
+  "crop 177/225": true,
+  "ToArgb reader": true,
+  "LateGet \"Load\"": true,
+  "GetTypes()[7]": true,
+  "GetMethods()[17]": false,
+  "Environment.Exit": true,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": true
+ },
+ {
+  "stage2": "3cf19156f24e80bc",
+  "lines": 3938,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": true,
+  "LateGet \"Load\"": false,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": false,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ },
+ {
+  "stage2": "405d0dcbe8454646",
+  "lines": 5157,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": false,
+  "LateGet \"Load\"": false,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": false,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ },
+ {
+  "stage2": "642e4327be8a180b",
+  "lines": 5006,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": false,
+  "LateGet \"Load\"": true,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": true,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ },
+ {
+  "stage2": "67fcee692b5781c4",
+  "lines": 7675,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": true,
+  "LateGet \"Load\"": true,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": false,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ },
+ {
+  "stage2": "783064541c490386",
+  "lines": 5042,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": false,
+  "LateGet \"Load\"": false,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": false,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ },
+ {
+  "stage2": "cb32dba898acc1b7",
+  "lines": 8883,
+  "Sleep(24005)": false,
+  "Sleep(any)": [],
+  "XOR ^0x70 last-byte": true,
+  "BigEndianUnicode key": false,
+  "crop 177/225": true,
+  "ToArgb reader": true,
+  "LateGet \"Load\"": false,
+  "GetTypes()[7]": false,
+  "GetMethods()[17]": false,
+  "Environment.Exit": false,
+  "AssemblyConfiguration": [
+   "Deluxe"
+  ],
+  "AssemblyTitle": [
+   "Advanced Sokoban"
+  ],
+  "U+FDD0 names": false,
+  "hex-arg decoder": false
+ }
+]

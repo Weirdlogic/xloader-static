@@ -1,0 +1,376 @@
+[
+ {
+  "line": 173,
+  "C": 2245214912,
+  "op": "==",
+  "field": 926,
+  "entry_local": "local_12e",
+  "planted": "0x4dc738ea",
+  "cmd": 115,
+  "raw": "0x73737373",
+  "xor_insn": [
+   [
+    "401170",
+    "xor    eax,0x85d342c0",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 177,
+  "C": 583084012,
+  "op": "==",
+  "field": 717,
+  "entry_local": "local_1ff",
+  "planted": "0x2f109803",
+  "cmd": 182,
+  "raw": "0xb6b6b6b6",
+  "xor_insn": [
+   [
+    "4011ad",
+    "xor    edx,0x22c127ec",
+    "mov    eax,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 180,
+  "C": 2030447216,
+  "op": "==",
+  "field": 417,
+  "entry_local": "local_32b",
+  "planted": "0x77d4969c",
+  "cmd": 181,
+  "raw": "0xb5b5b5b5",
+  "xor_insn": [
+   [
+    "4011d4",
+    "xor    eax,0x79062a70",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 198,
+  "C": 331331992,
+  "op": "==",
+  "field": 850,
+  "entry_local": "local_17a",
+  "planted": "0xb3c3abda",
+  "cmd": 27,
+  "raw": "0x1b1b1b1b",
+  "xor_insn": [
+   [
+    "4012b4",
+    "xor    eax,0x13bfb998",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 203,
+  "C": 3732001392,
+  "op": "==",
+  "field": 975,
+  "entry_local": "local_fd",
+  "planted": "0x7b08c537",
+  "cmd": 30,
+  "raw": "0x1e1e1e1e",
+  "xor_insn": [
+   [
+    "401301",
+    "xor    edx,0xde71d270",
+    "mov    eax,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 215,
+  "C": 3716618368,
+  "op": "==",
+  "field": 979,
+  "entry_local": "local_f9",
+  "planted": "0xf6708149",
+  "cmd": 144,
+  "raw": "0x90909090",
+  "xor_insn": [
+   [
+    "4013b0",
+    "xor    edx,0xdd871880",
+    "mov    eax,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 321,
+  "C": 961443400,
+  "op": "==",
+  "field": 1136,
+  "entry_local": "local_5c",
+  "planted": "0x64cf99f7",
+  "cmd": 230,
+  "raw": "0xe6e6e6e6",
+  "xor_insn": [
+   [
+    "40162c",
+    "xor    ecx,0x394e7648",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 328,
+  "C": 389151676,
+  "op": "==",
+  "field": 1034,
+  "entry_local": "local_c2",
+  "planted": "0x4eb41007",
+  "cmd": 226,
+  "raw": "0xe2e2e2e2",
+  "xor_insn": [
+   [
+    "401690",
+    "xor    ecx,0x1731fbbc",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 338,
+  "C": 203662292,
+  "op": "==",
+  "field": 1001,
+  "entry_local": "local_e3",
+  "planted": "0x52a14f68",
+  "cmd": 229,
+  "raw": "0xe5e5e5e5",
+  "xor_insn": [
+   [
+    "40170a",
+    "xor    ecx,0xc23a3d4",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 359,
+  "C": 3717831104,
+  "op": "==",
+  "field": 1029,
+  "entry_local": "local_c7",
+  "planted": "0x178fe1e8",
+  "cmd": 113,
+  "raw": "0x71717171",
+  "xor_insn": [
+   [
+    "401820",
+    "xor    eax,0xdd9999c0",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 366,
+  "C": 2749606775,
+  "op": "==",
+  "field": 409,
+  "entry_local": "local_333",
+  "planted": "0x138fa925",
+  "cmd": 11,
+  "raw": "0xb0b0b0b",
+  "xor_insn": [
+   [
+    "401872",
+    "xor    ecx,0xa3e3ab77",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 400,
+  "C": 1585893904,
+  "op": "==",
+  "field": 381,
+  "entry_local": "local_34f",
+  "planted": "0x60645ecc",
+  "cmd": 133,
+  "raw": "0x85858585",
+  "xor_insn": [
+   [
+    "401a36",
+    "xor    eax,0x5e86d210",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 480,
+  "C": 4053807056,
+  "op": "==",
+  "field": 1079,
+  "entry_local": "local_95",
+  "planted": "0xc8160cf",
+  "cmd": 70,
+  "raw": "0x46464646",
+  "xor_insn": [
+   [
+    "401d5d",
+    "xor    eax,0xf1a02fd0",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 488,
+  "C": 1914902812,
+  "op": "==",
+  "field": 1038,
+  "entry_local": "local_be",
+  "planted": "0x6ae7b3e6",
+  "cmd": 163,
+  "raw": "0xa3a3a3a3",
+  "xor_insn": [
+   [
+    "401db7",
+    "xor    ecx,0x7223191c",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 491,
+  "C": 1143232256,
+  "op": "==",
+  "field": 401,
+  "entry_local": "local_33b",
+  "planted": "0xe05c4146",
+  "cmd": 31,
+  "raw": "0x1f1f1f1f",
+  "xor_insn": [
+   [
+    "401de3",
+    "xor    eax,0x44245700",
+    "mov    ecx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 529,
+  "C": 4151052780,
+  "op": "==",
+  "field": 1013,
+  "entry_local": "local_d7",
+  "planted": "0xeea9a217",
+  "cmd": 162,
+  "raw": "0xa2a2a2a2",
+  "xor_insn": [
+   [
+    "401fd0",
+    "xor    ecx,0xf76c09ec",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 554,
+  "C": 3230745688,
+  "op": "==",
+  "field": 730,
+  "entry_local": "local_1f2",
+  "planted": "0x5dd06b27",
+  "cmd": 38,
+  "raw": "0x26262626",
+  "xor_insn": [
+   [
+    "4020f5",
+    "xor    edx,0xc0914458",
+    "mov    eax,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 558,
+  "C": 3624134440,
+  "op": "==",
+  "field": 1193,
+  "entry_local": "local_23",
+  "planted": "0xfef973ec",
+  "cmd": 157,
+  "raw": "0x9d9d9d9d",
+  "xor_insn": [
+   [
+    "40212d",
+    "xor    ecx,0xd803e728",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 563,
+  "C": 649262852,
+  "op": "!=",
+  "field": 1157,
+  "entry_local": "local_47",
+  "planted": "0x34b60c3",
+  "cmd": 158,
+  "raw": "0x9e9e9e9e",
+  "xor_insn": [
+   [
+    "40217e",
+    "xor    edx,0x26b2f704",
+    "mov    eax,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 564,
+  "C": 999495414,
+  "op": "==",
+  "field": 993,
+  "entry_local": "local_eb",
+  "planted": "0xa5d13a8a",
+  "cmd": 37,
+  "raw": "0x25252525",
+  "xor_insn": [
+   [
+    "402222",
+    "xor    ecx,0x3b9316f6",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 585,
+  "C": 4282418112,
+  "op": "==",
+  "field": 349,
+  "entry_local": "local_36f",
+  "planted": "0xbdde7360",
+  "cmd": 249,
+  "raw": "0xf9f9f9f9",
+  "xor_insn": [
+   [
+    "402361",
+    "xor    ecx,0xff4083c0",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ },
+ {
+  "line": 617,
+  "C": 256967996,
+  "op": "==",
+  "field": 397,
+  "entry_local": "local_33f",
+  "planted": "0xa0221871",
+  "cmd": 20,
+  "raw": "0x14141414",
+  "xor_insn": [
+   [
+    "402506",
+    "xor    ecx,0xf51053c",
+    "mov    edx,DWORD PTR [ebp-0x4]"
+   ]
+  ]
+ }
+]

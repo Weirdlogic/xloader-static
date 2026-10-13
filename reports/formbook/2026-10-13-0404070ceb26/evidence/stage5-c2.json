@@ -1,0 +1,550 @@
+{
+ "sample_stage5_sha256": "a0588c553619f40b3563ba701f0bde5e3330beb3552f16dd2baa136dd6acabbb",
+ "method": "static decryption only; no domain was resolved, contacted or looked up",
+ "real_c2": {
+  "host": "www.minha.cc",
+  "host_defanged": "www[.]minha[.]cc",
+  "path": "/36vc/",
+  "url_defanged": "www[.]minha[.]cc/36vc/",
+  "derivation": "string n8F/qFx/aS095PY6 (FUN_00008710, call 0x8756) -> base64 -> cipher key (FUN_00001350^0x75, dwords^0xe494aef0, bytes^0x98) -> cipher key (FUN_000012f0^0x44); placed in slot ctx+0x1290=11 (entry 12, path /36vc/) by FUN_00006bd0",
+  "confidence": "high that this is the separately-encrypted entry the code substitutes for one slot (matches published XLoader design: real C2 encrypted differently from decoys); liveness not tested"
+ },
+ "decoy_prefix": "www.",
+ "fixed_slot_order_FUN_00006bd0": [
+  4,
+  49,
+  63,
+  1,
+  34,
+  61,
+  64,
+  50,
+  9,
+  26,
+  8,
+  12,
+  19,
+  30,
+  59,
+  60
+ ],
+ "decoys": [
+  {
+   "index": 1,
+   "domain": "smardadosenatu.cloud",
+   "path": "/mkdy/",
+   "url": "www.smardadosenatu.cloud/mkdy/",
+   "url_defanged": "www[.]smardadosenatu[.]cloud/mkdy/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 2,
+   "domain": "banoffice.team",
+   "path": "/1xx6/",
+   "url": "www.banoffice.team/1xx6/",
+   "url_defanged": "www[.]banoffice[.]team/1xx6/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 3,
+   "domain": "nowvideo.li",
+   "path": "/4hfb/",
+   "url": "www.nowvideo.li/4hfb/",
+   "url_defanged": "www[.]nowvideo[.]li/4hfb/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 4,
+   "domain": "amp-mariatogel.com",
+   "path": "/876i/",
+   "url": "www.amp-mariatogel.com/876i/",
+   "url_defanged": "www[.]amp-mariatogel[.]com/876i/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 5,
+   "domain": "movilidad.com.co",
+   "path": "/wb9v/",
+   "url": "www.movilidad.com.co/wb9v/",
+   "url_defanged": "www[.]movilidad[.]com[.]co/wb9v/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 6,
+   "domain": "supersloteasy.com",
+   "path": "/1ub8/",
+   "url": "www.supersloteasy.com/1ub8/",
+   "url_defanged": "www[.]supersloteasy[.]com/1ub8/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 7,
+   "domain": "lhw18924a1.cfd",
+   "path": "/fl4z/",
+   "url": "www.lhw18924a1.cfd/fl4z/",
+   "url_defanged": "www[.]lhw18924a1[.]cfd/fl4z/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 8,
+   "domain": "eolienzaer.com",
+   "path": "/v5tr/",
+   "url": "www.eolienzaer.com/v5tr/",
+   "url_defanged": "www[.]eolienzaer[.]com/v5tr/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 9,
+   "domain": "jts6831897.casa",
+   "path": "/kc5s/",
+   "url": "www.jts6831897.casa/kc5s/",
+   "url_defanged": "www[.]jts6831897[.]casa/kc5s/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 10,
+   "domain": "tv-51cao.cc",
+   "path": "/e1vw/",
+   "url": "www.tv-51cao.cc/e1vw/",
+   "url_defanged": "www[.]tv-51cao[.]cc/e1vw/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 11,
+   "domain": "kereszturicatering.hu",
+   "path": "/w9jk/",
+   "url": "www.kereszturicatering.hu/w9jk/",
+   "url_defanged": "www[.]kereszturicatering[.]hu/w9jk/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 12,
+   "domain": "templatemonster.com",
+   "path": "/36vc/",
+   "url": "www.templatemonster.com/36vc/",
+   "url_defanged": "www[.]templatemonster[.]com/36vc/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 13,
+   "domain": "unggul68.com",
+   "path": "/9i8u/",
+   "url": "www.unggul68.com/9i8u/",
+   "url_defanged": "www[.]unggul68[.]com/9i8u/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 14,
+   "domain": "erikovo.ru",
+   "path": "/lbpf/",
+   "url": "www.erikovo.ru/lbpf/",
+   "url_defanged": "www[.]erikovo[.]ru/lbpf/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 15,
+   "domain": "getcodeaudit.co.uk",
+   "path": "/vxqz/",
+   "url": "www.getcodeaudit.co.uk/vxqz/",
+   "url_defanged": "www[.]getcodeaudit[.]co[.]uk/vxqz/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 16,
+   "domain": "adndigital.com.mx",
+   "path": "/skmn/",
+   "url": "www.adndigital.com.mx/skmn/",
+   "url_defanged": "www[.]adndigital[.]com[.]mx/skmn/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 17,
+   "domain": "leveluphealth.online",
+   "path": "/bc57/",
+   "url": "www.leveluphealth.online/bc57/",
+   "url_defanged": "www[.]leveluphealth[.]online/bc57/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 18,
+   "domain": "asklepiachat.com",
+   "path": "/vuun/",
+   "url": "www.asklepiachat.com/vuun/",
+   "url_defanged": "www[.]asklepiachat[.]com/vuun/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 19,
+   "domain": "torrentfunk.com",
+   "path": "/rwos/",
+   "url": "www.torrentfunk.com/rwos/",
+   "url_defanged": "www[.]torrentfunk[.]com/rwos/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 20,
+   "domain": "roamago.com",
+   "path": "/tqap/",
+   "url": "www.roamago.com/tqap/",
+   "url_defanged": "www[.]roamago[.]com/tqap/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 21,
+   "domain": null,
+   "path": "/v7fe/",
+   "url": null,
+   "url_defanged": null,
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 22,
+   "domain": "danxenvi.site",
+   "path": "/7whg/",
+   "url": "www.danxenvi.site/7whg/",
+   "url_defanged": "www[.]danxenvi[.]site/7whg/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 23,
+   "domain": "mimao.net",
+   "path": "/1try/",
+   "url": "www.mimao.net/1try/",
+   "url_defanged": "www[.]mimao[.]net/1try/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 24,
+   "domain": "francisandduffy.com",
+   "path": "/ml5l/",
+   "url": "www.francisandduffy.com/ml5l/",
+   "url_defanged": "www[.]francisandduffy[.]com/ml5l/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 25,
+   "domain": "22374744.xyz",
+   "path": "/74ou/",
+   "url": "www.22374744.xyz/74ou/",
+   "url_defanged": "www[.]22374744[.]xyz/74ou/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 26,
+   "domain": "zyjcwg.com",
+   "path": "/ylmm/",
+   "url": "www.zyjcwg.com/ylmm/",
+   "url_defanged": "www[.]zyjcwg[.]com/ylmm/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 27,
+   "domain": "huahud.cc",
+   "path": "/l83v/",
+   "url": "www.huahud.cc/l83v/",
+   "url_defanged": "www[.]huahud[.]cc/l83v/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 28,
+   "domain": "parenting-attuned.com",
+   "path": "/m7dw/",
+   "url": "www.parenting-attuned.com/m7dw/",
+   "url_defanged": "www[.]parenting-attuned[.]com/m7dw/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 29,
+   "domain": "2863006.com",
+   "path": "/1a8a/",
+   "url": "www.2863006.com/1a8a/",
+   "url_defanged": "www[.]2863006[.]com/1a8a/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 30,
+   "domain": "codexabd.online",
+   "path": "/lag0/",
+   "url": "www.codexabd.online/lag0/",
+   "url_defanged": "www[.]codexabd[.]online/lag0/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 31,
+   "domain": "horus.ax",
+   "path": "/lzqe/",
+   "url": "www.horus.ax/lzqe/",
+   "url_defanged": "www[.]horus[.]ax/lzqe/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 32,
+   "domain": "revelintravel.com",
+   "path": "/1e2r/",
+   "url": "www.revelintravel.com/1e2r/",
+   "url_defanged": "www[.]revelintravel[.]com/1e2r/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 33,
+   "domain": "nexgenad.in",
+   "path": "/0pbf/",
+   "url": "www.nexgenad.in/0pbf/",
+   "url_defanged": "www[.]nexgenad[.]in/0pbf/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 34,
+   "domain": "hbaosite.com",
+   "path": "/ua93/",
+   "url": "www.hbaosite.com/ua93/",
+   "url_defanged": "www[.]hbaosite[.]com/ua93/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 35,
+   "domain": "claim.fun",
+   "path": "/kmgk/",
+   "url": "www.claim.fun/kmgk/",
+   "url_defanged": "www[.]claim[.]fun/kmgk/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 36,
+   "domain": "infyryx.com",
+   "path": "/i557/",
+   "url": "www.infyryx.com/i557/",
+   "url_defanged": "www[.]infyryx[.]com/i557/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 37,
+   "domain": "mzt.co.jp",
+   "path": "/l66s/",
+   "url": "www.mzt.co.jp/l66s/",
+   "url_defanged": "www[.]mzt[.]co[.]jp/l66s/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 38,
+   "domain": "b-transfer.pl",
+   "path": "/becc/",
+   "url": "www.b-transfer.pl/becc/",
+   "url_defanged": "www[.]b-transfer[.]pl/becc/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 39,
+   "domain": "tovima.gr",
+   "path": "/64m5/",
+   "url": "www.tovima.gr/64m5/",
+   "url_defanged": "www[.]tovima[.]gr/64m5/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 40,
+   "domain": "odvavry.cz",
+   "path": "/6e0a/",
+   "url": "www.odvavry.cz/6e0a/",
+   "url_defanged": "www[.]odvavry[.]cz/6e0a/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 41,
+   "domain": "ellascantanalamor.com",
+   "path": "/1y6y/",
+   "url": "www.ellascantanalamor.com/1y6y/",
+   "url_defanged": "www[.]ellascantanalamor[.]com/1y6y/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 42,
+   "domain": "pmbikes.net",
+   "path": "/hofw/",
+   "url": "www.pmbikes.net/hofw/",
+   "url_defanged": "www[.]pmbikes[.]net/hofw/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 43,
+   "domain": "1sjkd.asia",
+   "path": "/4hsc/",
+   "url": "www.1sjkd.asia/4hsc/",
+   "url_defanged": "www[.]1sjkd[.]asia/4hsc/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 44,
+   "domain": "czcw.cc",
+   "path": "/lrj9/",
+   "url": "www.czcw.cc/lrj9/",
+   "url_defanged": "www[.]czcw[.]cc/lrj9/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 45,
+   "domain": "basaltatm.com",
+   "path": "/giii/",
+   "url": "www.basaltatm.com/giii/",
+   "url_defanged": "www[.]basaltatm[.]com/giii/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 46,
+   "domain": "rosebol.com",
+   "path": "/s1i9/",
+   "url": "www.rosebol.com/s1i9/",
+   "url_defanged": "www[.]rosebol[.]com/s1i9/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 47,
+   "domain": "deviceloop.co",
+   "path": "/4fq6/",
+   "url": "www.deviceloop.co/4fq6/",
+   "url_defanged": "www[.]deviceloop[.]co/4fq6/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 48,
+   "domain": "monilop.site",
+   "path": "/0oal/",
+   "url": "www.monilop.site/0oal/",
+   "url_defanged": "www[.]monilop[.]site/0oal/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 49,
+   "domain": "izzyartdigital.com",
+   "path": "/oesx/",
+   "url": "www.izzyartdigital.com/oesx/",
+   "url_defanged": "www[.]izzyartdigital[.]com/oesx/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 50,
+   "domain": "ingatangajahacademy.id",
+   "path": "/ls6o/",
+   "url": "www.ingatangajahacademy.id/ls6o/",
+   "url_defanged": "www[.]ingatangajahacademy[.]id/ls6o/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 51,
+   "domain": "starkeon.digital",
+   "path": "/sgqp/",
+   "url": "www.starkeon.digital/sgqp/",
+   "url_defanged": "www[.]starkeon[.]digital/sgqp/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 52,
+   "domain": "optimatrademsk.ru",
+   "path": "/f8y2/",
+   "url": "www.optimatrademsk.ru/f8y2/",
+   "url_defanged": "www[.]optimatrademsk[.]ru/f8y2/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 53,
+   "domain": "cityofharare.com",
+   "path": "/f41t/",
+   "url": "www.cityofharare.com/f41t/",
+   "url_defanged": "www[.]cityofharare[.]com/f41t/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 54,
+   "domain": "aurumassist.africa",
+   "path": "/7jqb/",
+   "url": "www.aurumassist.africa/7jqb/",
+   "url_defanged": "www[.]aurumassist[.]africa/7jqb/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 55,
+   "domain": "grischaenergy.ch",
+   "path": "/zv7k/",
+   "url": "www.grischaenergy.ch/zv7k/",
+   "url_defanged": "www[.]grischaenergy[.]ch/zv7k/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 56,
+   "domain": "qunvero.shop",
+   "path": "/xjob/",
+   "url": "www.qunvero.shop/xjob/",
+   "url_defanged": "www[.]qunvero[.]shop/xjob/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 57,
+   "domain": "semporaviona.world",
+   "path": "/8ann/",
+   "url": "www.semporaviona.world/8ann/",
+   "url_defanged": "www[.]semporaviona[.]world/8ann/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 58,
+   "domain": "torrentz.com",
+   "path": "/q1d9/",
+   "url": "www.torrentz.com/q1d9/",
+   "url_defanged": "www[.]torrentz[.]com/q1d9/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 59,
+   "domain": "yyqvoluatquiur2.top",
+   "path": "/9i1k/",
+   "url": "www.yyqvoluatquiur2.top/9i1k/",
+   "url_defanged": "www[.]yyqvoluatquiur2[.]top/9i1k/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 60,
+   "domain": "pepeuncle.top",
+   "path": "/b91i/",
+   "url": "www.pepeuncle.top/b91i/",
+   "url_defanged": "www[.]pepeuncle[.]top/b91i/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 61,
+   "domain": "creati.store",
+   "path": "/c1sq/",
+   "url": "www.creati.store/c1sq/",
+   "url_defanged": "www[.]creati[.]store/c1sq/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 62,
+   "domain": "bagolone.it",
+   "path": "/vxxn/",
+   "url": "www.bagolone.it/vxxn/",
+   "url_defanged": "www[.]bagolone[.]it/vxxn/",
+   "in_fixed_16_slot_list": false
+  },
+  {
+   "index": 63,
+   "domain": "sednin.top",
+   "path": "/srwn/",
+   "url": "www.sednin.top/srwn/",
+   "url_defanged": "www[.]sednin[.]top/srwn/",
+   "in_fixed_16_slot_list": true
+  },
+  {
+   "index": 64,
+   "domain": "bridgeapp.online",
+   "path": "/otbq/",
+   "url": "www.bridgeapp.online/otbq/",
+   "url_defanged": "www[.]bridgeapp[.]online/otbq/",
+   "in_fixed_16_slot_list": true
+  }
+ ],
+ "keys": {
+  "entry_layer1": "FUN_000013b0 (610f2362 6a06ba9b 1b53922a bee888e0 82d1c60f) bytes ^0xe7 ^n",
+  "entry_layer2": "seed 0x99db1354 ^ (76b28727 1667f36a 5c4e0b9b d83c3c7b 3f757df5)",
+  "path": "table local_154[n] (4 bytes) with key (9564799d b19a74d9 6452b585 b8210c1e bd496a1b) bytes ^n; path = /xxxx/"
+ }
+}

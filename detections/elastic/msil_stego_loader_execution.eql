@@ -1,0 +1,23 @@
+/*
+  Title:   .NET steganographic loader execution (Formbook delivery chain)
+  Report:  reports/formbook/2026-10-13-0404070ceb26/report.md
+  Product: Elastic Security (EQL) on Elastic Defend data (logs-endpoint.events.*)
+  ATT&CK:  T1204.002, T1027.003, T1620
+  Status:  DRAFT - built from static analysis of one sample; validate before
+           enabling as a rule. Same logic as the KQL version.
+
+  A builder-shaped .NET binary starts from a user-writable path, then loads
+  Microsoft.VisualBasic (CallByName(AppDomain, "Load")) and System.Drawing
+  (bitmap pixel decoding) within two minutes.
+*/
+sequence by process.entity_id with maxspan=2m
+  [process where host.os.type == "windows" and event.type == "start" and
+     process.executable : ("?:\\Users\\*", "?:\\ProgramData\\*", "?:\\Windows\\Temp\\*") and
+     process.pe.original_file_name regex~ """[a-z]{3,6}\.exe""" and
+     /* EQL cannot compare two fields; the KQL version also requires
+        original_file_name != process.name - apply that in triage. */
+     (process.pe.company == null or process.pe.company == "") and
+     (process.pe.product == null or process.pe.product == "") and
+     (process.code_signature.exists == false or process.code_signature.trusted == false)]
+  [library where dll.name : ("Microsoft.VisualBasic.dll", "Microsoft.VisualBasic.ni.dll")]
+  [library where dll.name : ("System.Drawing.dll", "System.Drawing.ni.dll")]

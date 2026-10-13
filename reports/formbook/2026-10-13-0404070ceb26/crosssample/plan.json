@@ -1,0 +1,406 @@
+{
+ "A": [
+  {
+   "sha256_hash": "da95e9481a7bf541617ce4197a1cb323f5abf266983a0d413121f6cc113c356b",
+   "signature": "SnakeKeylogger",
+   "file_name": "TEKL\u0130F \u0130STE\u011e\u0130 - 7077 - 7078 MUHTEL\u0130F MAN MALZEMELER.exe",
+   "file_size": 750592,
+   "first_seen": "2026-10-01 10:38:47",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "05e61a33cd451d1496c7cf05a3f7bf739708ad2198d1ef2f05dc1f5eb2236138",
+   "signature": "SnakeKeylogger",
+   "file_name": "HydroPurge Lama.exe",
+   "file_size": 915456,
+   "first_seen": "2026-10-09 11:56:19",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "03e934c4dd23a0f630dec0f3c89ac864f94629f0a4c74c1e69ff71c49588a219",
+   "signature": "VIPKeylogger",
+   "file_name": "2nd_FIYAT VE GT\u0130P B\u0130LG\u0130S\u0130 R\u0130CAS 2026-13524  TALEB\u0130 RFQ TN16390426.bat",
+   "file_size": 774656,
+   "first_seen": "2026-10-02 11:38:30",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "024d5533d9cd346418c7780706410fca28f88e33291e8ca6b382299dfea043da",
+   "signature": "VIPKeylogger",
+   "file_name": "F\u0130YAT TALEP.pdf.bat",
+   "file_size": 909312,
+   "first_seen": "2026-10-09 15:05:23",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "3bb89c9e7eff35cd476e57b77412497cacd3833cf8d7f7139f6671a1284ac16c",
+   "signature": "Formbook",
+   "file_name": "Q88_Manas_2026.01.10.com",
+   "file_size": 846848,
+   "first_seen": "2026-10-01 02:26:31",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "3ea03e28c0a5a8c8a4910f26b2a1ee073053f76cbd9d21729dcec81543ac1617",
+   "signature": "Formbook",
+   "file_name": "Swift_Copy_IF01200022823419.exe",
+   "file_size": 822272,
+   "first_seen": "2026-10-09 04:37:52",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "a36cbacd3c6950de6319523835e895e8b35e32549c3a4673b3ead5215ad0d3e8",
+   "signature": "Formbook",
+   "file_name": "Inquiry 20261037______________________PDF.bat",
+   "file_size": 1021440,
+   "first_seen": "2026-10-08 11:10:40",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "7a9bffbf3a920d9b72d73b73cf09f3be5dadf025055f42b5dd12761ab7c8dd34",
+   "signature": "Formbook",
+   "file_name": "ORDER7865.bat",
+   "file_size": 851968,
+   "first_seen": "2026-10-08 07:45:20",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "0f591ea31c5b2ac4c74005d99c3b511cbfb31ca79342b72204b84a5b4ce84535",
+   "signature": "Formbook",
+   "file_name": "0f591ea31c5b2ac4c74005d99c3b511cbfb31ca79342b72204b84a5b4ce84535.exe",
+   "file_size": 876032,
+   "first_seen": "2026-10-12 08:05:17",
+   "reporter": "Tuxxin"
+  },
+  {
+   "sha256_hash": "786169a79bb505773566b041070dee3bb1c6ea67385acfc63ecf989ce701c87a",
+   "signature": "Formbook",
+   "file_name": "mv TOI CHALLENGER SHIP INFORMATION.com",
+   "file_size": 854016,
+   "first_seen": "2026-10-01 04:06:20",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "e15e5d4f77fa217cf9ccf18fc0fff19e9b9e47d8c65413f2751904a14fcb8658",
+   "signature": "Formbook",
+   "file_name": "PK04852Q0000383PKKHI.exe",
+   "file_size": 823808,
+   "first_seen": "2026-10-09 08:44:07",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "bc179912f78307a8798ebc1ce7fb38b1d2b4baf6bfddf15da8ecef4c0923694e",
+   "signature": "Formbook",
+   "file_name": "QUOTATION_2543_REQUEST_FORM.com",
+   "file_size": 847872,
+   "first_seen": "2026-10-07 09:16:25",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "10333cfe3b8de037f163d4e80af8e1f18cd5ca7af555dbc9c1da5409925a079d",
+   "signature": "Formbook",
+   "file_name": "QUOTATION_2543_REQUEST_FORM.com",
+   "file_size": 885760,
+   "first_seen": "2026-10-06 04:28:27",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "64506ae267aed8afa5cfbb41ca8f5677600747f02fe27b8d8d926d12e3ad99f2",
+   "signature": "Formbook",
+   "file_name": "NEW_FLF7997_SHIPMENT_DETAILpdf.com",
+   "file_size": 855040,
+   "first_seen": "2026-10-08 02:51:21",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "ae6de2a72582e210675a13014018fbe0081311f6eaf4c3b8150cd084467900b3",
+   "signature": null,
+   "file_name": "RFQ_ BXD-26V-0154-1.pif",
+   "file_size": 856064,
+   "first_seen": "2026-10-13 17:26:24",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "16b21b4110bf7445db200b0a6502f9c315c6d2b4f636a7eb66cc25e34680b8f1",
+   "signature": null,
+   "file_name": "REVISED FREIGHT INVOICE_USD171,000.exe",
+   "file_size": 828416,
+   "first_seen": "2026-10-02 06:05:59",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "354ed74cf297bdc4d920e3bb357fea7202856277501cbe914b1dfbe8813e841c",
+   "signature": "XWorm",
+   "file_name": "\u96fb\u5b50\u767c\u7968\u8b49\u660e\u806f-LMTPE2610027-\u4e2d\u52e4............................................................................................................................................exe",
+   "file_size": 621568,
+   "first_seen": "2026-10-08 07:14:24",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "17161ca9b95f7b2550a69cc0f2fce78ae93ae27869f6652fd54cbc2bbec68b38",
+   "signature": "XWorm",
+   "file_name": "ETC 109 SO#J033  -  Invoice6ymao274496354941578CL6233_Id6ymao27439635....exe",
+   "file_size": 604160,
+   "first_seen": "2026-10-06 07:24:38",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "274ef738a146d4f472a1688c87affc57c64b0b79921a331c8e9261e27efc8b89",
+   "signature": "SiriusRAT",
+   "file_name": "Proforma-Rechnung & Zahlungsavis f\u00fcr PI26082701.exe",
+   "file_size": 2641920,
+   "first_seen": "2026-10-01 12:02:19",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "44c2f46e91c4b65b6f0c8385910af36a4255bba0fdd7bfccf2199e7a9faf19f7",
+   "signature": "AgentTesla",
+   "file_name": "230294935.exe",
+   "file_size": 803840,
+   "first_seen": "2026-10-07 09:44:36",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "e76c5c79066d31f5e84b172d61ba575926a18505efa47a9d9a0c7c1c0ced4768",
+   "signature": "AgentTesla",
+   "file_name": "Shipment_Invoice_and_Packing_List.com",
+   "file_size": 784384,
+   "first_seen": "2026-10-01 04:03:48",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "6be0d87cb44236b11c566bb7914d27c0ef550487d8e42926a8f7331eb76f5f5a",
+   "signature": "AsyncRAT",
+   "file_name": "0009 0599 \u7814\u83ef 4167635 - \u3010FLEX-4167635\u3011\u7814\u83ef\u51fa\u8ca8 AESC by Oct. 16 - ETC 1014 -0009 0599.exe",
+   "file_size": 614912,
+   "first_seen": "2026-10-13 07:13:22",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "f7914bc01cc7681047160cdb1c34d6cb548c16045cb4ef4a868de43f9b8f6844",
+   "signature": "AsyncRAT",
+   "file_name": "P10R05AV_20260929141334 -  KAOHSIUNG, TAIWAN\u8acb\u6295\u9ad8\u639b.exe",
+   "file_size": 692224,
+   "first_seen": "2026-09-30 03:32:12",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "5da16030099b484460213d2031dc3683197eedbe54517c23e440f4f5af4c5daa",
+   "signature": "QuasarRAT",
+   "file_name": "1ab86b5b61453ace4abdcb56c00f72b2.exe",
+   "file_size": 4822016,
+   "first_seen": "2026-10-03 20:30:08",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "9121ef0f2d7b2cc3c887420ecb1eae214db9cb780433d11565ab8c98a6ad99ec",
+   "signature": "RemcosRAT",
+   "file_name": "5a12e4935f8b9504f6a2d0459478ea64.exe",
+   "file_size": 1065984,
+   "first_seen": "2026-10-02 08:06:54",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "7250576a3cb7164bf383d89683267604dd1a5d36e1a35f22b5bef2d9f29402e5",
+   "signature": "RemcosRAT",
+   "file_name": "(TWN26100200.TWN26100218.TWN26100222.TWN26090662.TWN26100226.TWN26100262.TWN26100313).exe",
+   "file_size": 1236480,
+   "first_seen": "2026-10-01 04:43:23",
+   "reporter": "threatcat_ch"
+  },
+  {
+   "sha256_hash": "a4bc6811c27dd4089c59cd0230a79480fd185a98bf43462816d7c3dfd87e3640",
+   "signature": "MassLogger",
+   "file_name": "a4bc6811c27dd4089c59cd0230a79480fd185a98bf43462816d7c3dfd87e3640.exe",
+   "file_size": 856064,
+   "first_seen": "2026-10-05 16:04:15",
+   "reporter": "ShadowOpCode"
+  },
+  {
+   "sha256_hash": "c66bc009627d9d81259a05206854f4508af42191962739801787f3f92ac182e2",
+   "signature": "MassLogger",
+   "file_name": "INVOICENOEKTA2026179.pdf.exe",
+   "file_size": 630272,
+   "first_seen": "2026-10-02 11:38:49",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "b2d0acd9d080794496faa1b3d7de902b3fb78329cddfe4deda33cbabe6e79a23",
+   "signature": "PureLogsStealer",
+   "file_name": "EDO-SITKBSG2613285.pdf.exe",
+   "file_size": 1458688,
+   "first_seen": "2026-10-06 06:16:13",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "d3ac1fa2c9bb8ef73f91f699b9896f45a65021c5b1e4bbff1b1ea0b701066f81",
+   "signature": "PureLogsStealer",
+   "file_name": "Mbbank_0786071844.pdf.exe",
+   "file_size": 1452032,
+   "first_seen": "2026-10-06 06:50:08",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "b4e22e21e205559a595d1e3b47516079d19bf9c226d41023494ed07f41648e65",
+   "signature": "PhantomStealer",
+   "file_name": "Fedex shipping Doc.exe",
+   "file_size": 1324032,
+   "first_seen": "2026-10-01 06:28:43",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "b3217ca3543005ea9d318cda4abdc79af8079d9e1cd60c38e9c042bd8c0b6469",
+   "signature": "PhantomStealer",
+   "file_name": "KO\u00c7KAR-\u00fcr\u00fcnler Fiyat Teklifi Talebi projesi -29092026 SW 6504 VE SEO-5503.pdf.bat",
+   "file_size": 1291264,
+   "first_seen": "2026-09-30 08:18:56",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "b975fc15637a72cb3452655dc5d7ba2d8230bda8a5752c3047eb4c0851c4c372",
+   "signature": "MilleniumRAT",
+   "file_name": "Po no-000063773-PDF.bat",
+   "file_size": 3776000,
+   "first_seen": "2026-10-06 07:02:35",
+   "reporter": "lowmal3"
+  }
+ ],
+ "B": [
+  {
+   "sha256_hash": "25a127ef0fe99db17a3a08ddbd6848b3c96e1e61819b8819d34d1f016cb72b0e",
+   "signature": "Formbook",
+   "file_name": "25a127ef0fe99db17a3a08ddbd6848b3c96e1e61819b8819d34d1f016cb72b0e.exe",
+   "file_size": 810496,
+   "first_seen": "2026-10-05 16:03:20",
+   "reporter": "ShadowOpCode"
+  },
+  {
+   "sha256_hash": "ef41e4af8abb91a0c77f60005bd985ff554fe368593bb0b60d09a5fc9a54bd98",
+   "signature": "RemcosRAT",
+   "file_name": "file.exe",
+   "file_size": 636180,
+   "first_seen": "2026-10-08 18:59:22",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "0926f6f79fcac8bc7e1e1e7027743a37662a1db79464fd24dc12c6c199ddee21",
+   "signature": "SnakeKeylogger",
+   "file_name": "Teklif Talebi  1540-0092RFQ26_202606100623256209 .bat",
+   "file_size": 745984,
+   "first_seen": "2026-10-05 12:21:44",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "97cb2ecc246e032dc1841bd848dfeaa3823a4671fb81199f78fa9aeba9091185",
+   "signature": "Formbook",
+   "file_name": "s3.exe",
+   "file_size": 287744,
+   "first_seen": "2026-10-10 22:40:45",
+   "reporter": "anonymous"
+  },
+  {
+   "sha256_hash": "ec00d75b13137b4a6ee59c42acb2a49bee8b72092de446f0faa0d3ac487af3a4",
+   "signature": "RemcosRAT",
+   "file_name": "payload_ec00d75b.bin",
+   "file_size": 527872,
+   "first_seen": "2026-10-11 20:14:05",
+   "reporter": "Daydream"
+  },
+  {
+   "sha256_hash": "fd0d23011657d0185f6e4fb5fe57eb7894c9fc606b9ae5fc6b977efcb2ef1eeb",
+   "signature": "AgentTesla",
+   "file_name": "f45b853c-c9d3-495e-9acb-d41a4a90029f.exe",
+   "file_size": 245760,
+   "first_seen": "2026-10-06 12:34:42",
+   "reporter": "James_inthe_box"
+  },
+  {
+   "sha256_hash": "0693e042dd629efb54a385e8fee6cd00c7a54543d31bceb3f790365a72e55448",
+   "signature": "RemcosRAT",
+   "file_name": "SCN_20260928_161058.exe",
+   "file_size": 171160,
+   "first_seen": "2026-10-06 06:46:22",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "140a2b7ff0068183429a3e7783623394f82ee2a9d0f725beedce6c54430524a2",
+   "signature": "Formbook",
+   "file_name": "svchost.exe",
+   "file_size": 287232,
+   "first_seen": "2026-10-02 12:32:30",
+   "reporter": "James_inthe_box"
+  },
+  {
+   "sha256_hash": "1d0f2d9db8cc9498ffed71d038690bfe52b39b3a1771bbfae0088db2d603cca0",
+   "signature": "SnakeKeylogger",
+   "file_name": "1d0f2d9db8cc9498ffed71d038690bfe52b39b3a1771bbfae0088db2d603cca0",
+   "file_size": 133632,
+   "first_seen": "2026-10-07 17:33:45",
+   "reporter": "kanwrath"
+  },
+  {
+   "sha256_hash": "2450fabd7c6ac77f8c79b9171f4a9f85faf200c46cf3390930847f677347abe6",
+   "signature": "VIPKeylogger",
+   "file_name": "Revised Proforma Invoice.exe",
+   "file_size": 743936,
+   "first_seen": "2026-10-06 12:27:38",
+   "reporter": "James_inthe_box"
+  },
+  {
+   "sha256_hash": "0b81936f0bc1aaf3d55932e910e8a1cdbd80f276e59f80690a80f8f9e6550a93",
+   "signature": "Formbook",
+   "file_name": "probable_Formbook_3.exe",
+   "file_size": 286208,
+   "first_seen": "2026-10-05 16:08:06",
+   "reporter": "ShadowOpCode"
+  },
+  {
+   "sha256_hash": "342c8cbca7f6c97acbd974963ad9909b9864cf0643244f4565593d8b67b893f1",
+   "signature": "RemcosRAT",
+   "file_name": "1791829747116b783c49b924ce6d049b5f5c00346c8d4b7fe679e0452e1d24c0b33c31cf43258.dat-decoded",
+   "file_size": 660271,
+   "first_seen": "2026-10-13 06:21:54",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "d538f52e0703db623fcc880f8adf16f96459eaef867e5b91e91740343726e913",
+   "signature": "Formbook",
+   "file_name": "261F0000723-00042F.261F0000723-00042F.PDF.exe",
+   "file_size": 435672,
+   "first_seen": "2026-10-07 14:53:42",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "3797d5082f3612a2493ce6430ed09a61922573f6871401f95b0d2e735a12ada1",
+   "signature": "RemcosRAT",
+   "file_name": "3797d5082f3612a2493ce6430ed09a61922573f6871401f95b0d2e735a12ada1.exe",
+   "file_size": 660480,
+   "first_seen": "2026-09-30 10:11:42",
+   "reporter": "Tuxxin"
+  },
+  {
+   "sha256_hash": "b1226cf111753eb82f329cb657104059ac96c8692853d83aa4a70d9b8c2bb312",
+   "signature": "RemcosRAT",
+   "file_name": "file.exe",
+   "file_size": 527986,
+   "first_seen": "2026-10-08 18:59:33",
+   "reporter": "abuse_ch"
+  },
+  {
+   "sha256_hash": "ac927aaf104545b1fa57b638a9ae8a7e1401b72095936bc8b36788fd2aa1c306",
+   "signature": "SnakeKeylogger",
+   "file_name": "Teklif Cetveli.exe",
+   "file_size": 742912,
+   "first_seen": "2026-10-05 09:26:38",
+   "reporter": "lowmal3"
+  },
+  {
+   "sha256_hash": "5d010b50c9cfd89d091aa90acf4b1ffc8f1659e89d1993dd54f76498fed3cf67",
+   "signature": "Formbook",
+   "file_name": "Probable_Formbook_2.exe",
+   "file_size": 284672,
+   "first_seen": "2026-10-05 16:07:55",
+   "reporter": "ShadowOpCode"
+  }
+ ]
+}

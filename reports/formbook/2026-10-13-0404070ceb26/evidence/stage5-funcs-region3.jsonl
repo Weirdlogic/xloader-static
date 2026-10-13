@@ -1,0 +1,4 @@
+{"wrapper": "FUN_000266b0", "c60": "0xdfea676c", "key": "45584928ab21edef7a63e0b3c64681c0000e24c8", "start_egg_at": "0xe3bb", "end_egg_at": "0xe63c", "unique_eggs": true, "calls_coherent": "21/21", "body_len": 635, "applied": true}
+{"wrapper": "FUN_00026ec0", "c60": "0x5521a610", "key": "1be924aaf590806d24d28d3198f7ec425ebf494a", "start_egg_at": "0x16d3c", "end_egg_at": "0x1700d", "unique_eggs": true, "calls_coherent": "24/24", "body_len": 715, "applied": true}
+{"wrapper": "FUN_00027040", "c60": "0x6b2ddfea", "key": "b78eb4ef59f7102888b51d7434907c07f2d8d90f", "start_egg_at": "0x18947", "end_egg_at": "0x18a8c", "unique_eggs": true, "calls_coherent": "9/9", "body_len": 319, "applied": true}
+{"wrapper": "FUN_00028ee0", "c60": "0x395c79e6", "key": "93115bd47d68ff13ac2af24f100f933cd6473634", "start_egg_at": "0x239e1", "end_egg_at": "0x23f9e", "unique_eggs": true, "calls_coherent": "24/24", "body_len": 1463, "applied": true}

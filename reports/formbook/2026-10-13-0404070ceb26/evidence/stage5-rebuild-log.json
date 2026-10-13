@@ -1,0 +1,756 @@
+[
+ {
+  "round": 1,
+  "region": "R1",
+  "fn": "0xad80"
+ },
+ {
+  "round": 1,
+  "region": "R2",
+  "fn": "0x12b90"
+ },
+ {
+  "round": 1,
+  "region": "R3",
+  "fn": "0x239d0"
+ },
+ {
+  "round": 1,
+  "region": "A",
+  "fn": "0x4730"
+ },
+ {
+  "round": 1,
+  "region": "B",
+  "fn": "0x6bd0"
+ },
+ {
+  "round": 1,
+  "region": "C",
+  "fn": "0x6290"
+ },
+ {
+  "round": 1,
+  "region": "E",
+  "fn": "0x44d0"
+ },
+ {
+  "round": 1,
+  "region": "F",
+  "fn": "0x5b30"
+ },
+ {
+  "round": 1,
+  "region": "G",
+  "fn": "0x15e60"
+ },
+ {
+  "round": 1,
+  "region": "H",
+  "fn": "0xe6b0"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000269b0",
+  "target": "0x16370",
+  "start": "0x1637a",
+  "end": "0x169ea",
+  "calls": "30/30"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026b10",
+  "target": "0x11e70",
+  "start": "0x11e7b",
+  "end": "0x12306",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026d30",
+  "target": "0x230a0",
+  "start": "0x230a6",
+  "end": "0x23308",
+  "calls": "6/6"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026f40",
+  "target": "0x16a00",
+  "start": "0x16a09",
+  "end": "0x16bf2",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000272b0",
+  "target": "0x13970",
+  "start": "0x1397b",
+  "end": "0x13d58",
+  "calls": "46/46"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027330",
+  "target": "0x13d70",
+  "start": "0x13d7b",
+  "end": "0x13e2c",
+  "calls": "7/7"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000273b0",
+  "target": "0x13e40",
+  "start": "0x13e4b",
+  "end": "0x13fe2",
+  "calls": "16/16"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027430",
+  "target": "0x14000",
+  "start": "0x14006",
+  "end": "0x14164",
+  "calls": "15/15"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000274b0",
+  "target": "0x2b730",
+  "start": "0x2b739",
+  "end": "0x2b92e",
+  "calls": "17/17"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027530",
+  "target": "0x2ae80",
+  "start": "0x2ae89",
+  "end": "0x2afec",
+  "calls": "8/8"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027b20",
+  "target": "0x25aa0",
+  "start": "0x25aab",
+  "end": "0x25ff9",
+  "calls": "45/45"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027ba0",
+  "target": "0x114d0",
+  "start": "0x114d5",
+  "end": "0x115b2",
+  "calls": "5/5"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027c20",
+  "target": "0x115d0",
+  "start": "0x115d7",
+  "end": "0x11690",
+  "calls": "4/4"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027c90",
+  "target": "0x11810",
+  "start": "0x1181a",
+  "end": "0x11916",
+  "calls": "9/9"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027d10",
+  "target": "0x156a0",
+  "start": "0x156a9",
+  "end": "0x15772",
+  "calls": "5/5"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027f80",
+  "target": "0x236a0",
+  "start": "0x236ab",
+  "end": "0x23798",
+  "calls": "10/10"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028000",
+  "target": "0x11230",
+  "start": "0x11236",
+  "end": "0x113b0",
+  "calls": "14/14"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000281f0",
+  "target": "0x21d00",
+  "start": "0x21d0b",
+  "end": "0x21e58",
+  "calls": "7/7"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028270",
+  "target": "0x1ae30",
+  "start": "0x1ae3b",
+  "end": "0x1b05c",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000282e0",
+  "target": "0x1e2a0",
+  "start": "0x1e2ac",
+  "end": "0x1e595",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000284c0",
+  "target": "0x1d890",
+  "start": "0x1d89c",
+  "end": "0x1dbfb",
+  "calls": "34/34"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000285a0",
+  "target": "0x1f2c0",
+  "start": "0x1f2cc",
+  "end": "0x1f44a",
+  "calls": "14/14"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000286b0",
+  "target": "0x1ead0",
+  "start": "0x1eadb",
+  "end": "0x1ecb9",
+  "calls": "19/19"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000287d0",
+  "target": "0x1f460",
+  "start": "0x1f46c",
+  "end": "0x1f7f5",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028bf0",
+  "target": "0x20520",
+  "start": "0x2052c",
+  "end": "0x208ad",
+  "calls": "18/18"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000290a0",
+  "target": "0x8440",
+  "start": "0x844a",
+  "end": "0x8666",
+  "calls": "7/7"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00029130",
+  "target": "0x144e0",
+  "start": "0x144eb",
+  "end": "0x14630",
+  "calls": "13/13"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000291a0",
+  "target": "0x7f50",
+  "start": "0x7f5b",
+  "end": "0x80fc",
+  "calls": "2/2"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026a20",
+  "target": "0x7660",
+  "start": "0x766c",
+  "end": "0x7906",
+  "calls": "38/38"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026a90",
+  "target": "0x7920",
+  "start": "0x792c",
+  "end": "0x7d9f",
+  "calls": "50/50"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027a20",
+  "target": "0x1b20",
+  "start": "0x1b2c",
+  "end": "0x236e",
+  "calls": "74/74"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027d80",
+  "target": "0xf180",
+  "start": "0xf187",
+  "end": "0xf249",
+  "calls": "6/6"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028170",
+  "target": "0x21e70",
+  "start": "0x21e79",
+  "end": "0x2203b",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000288e0",
+  "target": "0x1c650",
+  "start": "0x1c65c",
+  "end": "0x1c98e",
+  "calls": "27/27"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026930",
+  "target": "0xf3e0",
+  "start": "0xf3ea",
+  "end": "0xf767",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026fd0",
+  "target": "0x18460",
+  "start": "0x1846b",
+  "end": "0x18624",
+  "calls": "10/10"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000270b0",
+  "target": "0x18630",
+  "start": "0x18639",
+  "end": "0x1876e",
+  "calls": "15/15"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027240",
+  "target": "0x13460",
+  "start": "0x1346a",
+  "end": "0x1380a",
+  "calls": "26/26"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000268b0",
+  "target": "0x19970",
+  "start": "0x1997b",
+  "end": "0x1aa2f",
+  "calls": "88/88"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027920",
+  "target": "0x10a00",
+  "start": "0x10a0b",
+  "end": "0x10cc7",
+  "calls": "19/19"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027e00",
+  "target": "0xf7e0",
+  "start": "0xf7eb",
+  "end": "0xf932",
+  "calls": "11/11"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000280f0",
+  "target": "0x22310",
+  "start": "0x2231b",
+  "end": "0x22672",
+  "calls": "32/32"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028440",
+  "target": "0x1dc10",
+  "start": "0x1dc1a",
+  "end": "0x1e07d",
+  "calls": "40/40"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028530",
+  "target": "0x1aa40",
+  "start": "0x1aa4c",
+  "end": "0x1accd",
+  "calls": "23/23"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028860",
+  "target": "0x1d3a0",
+  "start": "0x1d3ab",
+  "end": "0x1d58c",
+  "calls": "18/18"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028970",
+  "target": "0x1c9a0",
+  "start": "0x1c9ac",
+  "end": "0x1cc8b",
+  "calls": "27/27"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028b70",
+  "target": "0x208c0",
+  "start": "0x208c8",
+  "end": "0x20b7a",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028d00",
+  "target": "0x6bd0",
+  "start": "0x6be2",
+  "end": "0x72d2",
+  "calls": "62/62"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028d70",
+  "target": "0x6290",
+  "start": "0x62a1",
+  "end": "0x6b77",
+  "calls": "49/49"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028df0",
+  "target": "0x44d0",
+  "start": "0x44df",
+  "end": "0x45e7",
+  "calls": "3/3"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028e60",
+  "target": "0xe6b0",
+  "start": "0xe6c2",
+  "end": "0xf15c",
+  "calls": "83/83"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028fc0",
+  "target": "0x5b30",
+  "start": "0x5b42",
+  "end": "0x5ed8",
+  "calls": "33/33"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00029210",
+  "target": "0x14f30",
+  "start": "0x14f39",
+  "end": "0x15085",
+  "calls": "0/0"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028f50",
+  "target": "0x12b90",
+  "start": "0x12ba1",
+  "end": "0x13123",
+  "calls": "42/42"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028c80",
+  "target": "0x4730",
+  "start": "0x473f",
+  "end": "0x4cca",
+  "calls": "61/61"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00029030",
+  "target": "0x15e60",
+  "start": "0x15e72",
+  "end": "0x16352",
+  "calls": "19/19"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026820",
+  "target": "0x19400",
+  "start": "0x1940a",
+  "end": "0x198e2",
+  "calls": "20/20"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026ba0",
+  "target": "0x11b90",
+  "start": "0x11b9a",
+  "end": "0x11d23",
+  "calls": "11/11"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026c30",
+  "target": "0x12340",
+  "start": "0x12349",
+  "end": "0x124df",
+  "calls": "7/7"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026dc0",
+  "target": "0x12650",
+  "start": "0x1265c",
+  "end": "0x129d7",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026e50",
+  "target": "0x131a0",
+  "start": "0x131ac",
+  "end": "0x13452",
+  "calls": "23/23"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027120",
+  "target": "0x22a40",
+  "start": "0x22a48",
+  "end": "0x22b7c",
+  "calls": "6/6"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000271b0",
+  "target": "0x22ca0",
+  "start": "0x22ca9",
+  "end": "0x22f02",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027790",
+  "target": "0x22690",
+  "start": "0x22698",
+  "end": "0x2297f",
+  "calls": "20/20"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027820",
+  "target": "0x10470",
+  "start": "0x10479",
+  "end": "0x106c6",
+  "calls": "23/23"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027aa0",
+  "target": "0x25670",
+  "start": "0x2567a",
+  "end": "0x25a83",
+  "calls": "31/31"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027f00",
+  "target": "0x10350",
+  "start": "0x10359",
+  "end": "0x10454",
+  "calls": "9/9"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028350",
+  "target": "0x1e5b0",
+  "start": "0x1e5bb",
+  "end": "0x1e887",
+  "calls": "20/20"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028630",
+  "target": "0x1ef80",
+  "start": "0x1ef8c",
+  "end": "0x1f1c8",
+  "calls": "20/20"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028750",
+  "target": "0x1f810",
+  "start": "0x1f81c",
+  "end": "0x1fb35",
+  "calls": "14/14"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028a80",
+  "target": "0x1fb50",
+  "start": "0x1fb57",
+  "end": "0x1fc2e",
+  "calls": "2/2"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028af0",
+  "target": "0x1fc60",
+  "start": "0x1fc6b",
+  "end": "0x20039",
+  "calls": "27/27"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00029290",
+  "target": "0x150a0",
+  "start": "0x150a9",
+  "end": "0x1541a",
+  "calls": "0/0"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00029300",
+  "target": "0x4cf0",
+  "start": "0x4cfc",
+  "end": "0x5154",
+  "calls": "26/26"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000275a0",
+  "target": "0x24fe0",
+  "start": "0x24feb",
+  "end": "0x251aa",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000283c0",
+  "target": "0x1e090",
+  "start": "0x1e098",
+  "end": "0x1e1de",
+  "calls": "12/12"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000267a0",
+  "target": "0x26120",
+  "start": "0x2612d",
+  "end": "0x265ea",
+  "calls": "31/31"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000278a0",
+  "target": "0x106f0",
+  "start": "0x106f9",
+  "end": "0x109e6",
+  "calls": "18/18"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000279a0",
+  "target": "0x10ce0",
+  "start": "0x10cea",
+  "end": "0x11092",
+  "calls": "37/37"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000289f0",
+  "target": "0x1cfe0",
+  "start": "0x1cfec",
+  "end": "0x1d385",
+  "calls": "40/40"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027e80",
+  "target": "0xff20",
+  "start": "0xff2c",
+  "end": "0x10116",
+  "calls": "16/16"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026720",
+  "target": "0x15bd0",
+  "start": "0x15bdc",
+  "end": "0x15e41",
+  "calls": "1/1"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027710",
+  "target": "0x2c200",
+  "start": "0x2c206",
+  "end": "0x2c2c7",
+  "calls": "4/4"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028070",
+  "target": "0x110a0",
+  "start": "0x110ab",
+  "end": "0x11216",
+  "calls": "9/9"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_000266b0",
+  "target": "0xe3b0",
+  "start": "0xe3bb",
+  "end": "0xe63c",
+  "calls": "21/21"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00026ec0",
+  "target": "0x16d30",
+  "start": "0x16d3c",
+  "end": "0x1700d",
+  "calls": "24/24"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00027040",
+  "target": "0x18940",
+  "start": "0x18947",
+  "end": "0x18a8c",
+  "calls": "9/9"
+ },
+ {
+  "round": 1,
+  "egg": "FUN_00028ee0",
+  "target": "0x239d0",
+  "start": "0x239e1",
+  "end": "0x23f9e",
+  "calls": "24/24"
+ }
+]

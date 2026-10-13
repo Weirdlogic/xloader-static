@@ -1,0 +1,1227 @@
+[
+ {
+  "call": "0x266b",
+  "bl": "0x6d",
+  "len": 28,
+  "ct": "2e329caae4abb2d4eb88f5bd4c92d52e94557a19e9653ff320fe7318",
+  "pt": "5ijHcH4bLl5NupbjPZYeW1I75Vs="
+ },
+ {
+  "call": "0x26cd",
+  "bl": "0x4e",
+  "len": 20,
+  "ct": "34d0a64535fc43edbe324662bc51602e9cd0e79d",
+  "pt": "/44fZ35wEwCZ29Fr9xo="
+ },
+ {
+  "call": "0x2726",
+  "bl": "0x21",
+  "len": 16,
+  "ct": "b7a504ee73d53ee14d8fabc80e6f3316",
+  "pt": "UFNBJN1r3Scr+fs="
+ },
+ {
+  "call": "0x2794",
+  "bl": "0x72",
+  "len": 24,
+  "ct": "71c42f0b8381328e3083bcebd7d6748387c47972dbb580fe",
+  "pt": "avbPm3Q5sI/SLwj9DXYYPhuD"
+ },
+ {
+  "call": "0x2804",
+  "bl": "0x8f",
+  "len": 24,
+  "ct": "6617160e1823e5805d2fe99c401dc66671c34131f06efb74",
+  "pt": "ELsjc+YGC4rJTWa1XiXLkw=="
+ },
+ {
+  "call": "0x2874",
+  "bl": "0xba",
+  "len": 24,
+  "ct": "bdbcf5a57d027fee3706c13f3097f48aeb62d9724cbd9981",
+  "pt": "dEBnDBsiylh7UrwiNbKLDBE="
+ },
+ {
+  "call": "0x28dd",
+  "bl": "0xa5",
+  "len": 20,
+  "ct": "8b254b3ee35b853bb2d6ec9f5fe78e81ec73cf6e",
+  "pt": "pONwsUiVd5c2qcl0EdQ="
+ },
+ {
+  "call": "0x293d",
+  "bl": "0xd2",
+  "len": 20,
+  "ct": "86306825cb8608342913b6be7ac56d8a8c67d7a1",
+  "pt": "8a7BqjHRnMThtYfzhDw="
+ },
+ {
+  "call": "0x299d",
+  "bl": "0xed",
+  "len": 20,
+  "ct": "6b02d84b56e744df5704c822ebfebb9438c8f731",
+  "pt": "8aO3alEN4+0TomNMDtJS"
+ },
+ {
+  "call": "0x29f6",
+  "bl": "0x69",
+  "len": 16,
+  "ct": "389b0a73d1a826a763d65897df9e1c02",
+  "pt": "Rib0bM5+ySfqzes="
+ },
+ {
+  "call": "0x2a6b",
+  "bl": "0x80",
+  "len": 28,
+  "ct": "c94ad0f7ca08f868c70b7c82096cafad9b28dde172dbcef64f102efa",
+  "pt": "A8iHWbClAKWxhJfgLQUiAynJJlVk"
+ },
+ {
+  "call": "0x2adb",
+  "bl": "0xca",
+  "len": 28,
+  "ct": "b243d53d7cc3340911a5cebead54ae739d00e5428320f8415e29151d",
+  "pt": "hgl6ndvUbvQ0kEGNYFPWrRx6ag=="
+ },
+ {
+  "call": "0x2b36",
+  "bl": "0xac",
+  "len": 16,
+  "ct": "2ebc40a63bbeb48b9ec124ec44010279",
+  "pt": "AZTeq/0vsgw+nOzZ"
+ },
+ {
+  "call": "0x2b96",
+  "bl": "0x79",
+  "len": 16,
+  "ct": "742a16666c9b3fb8ed913fe3e970727d",
+  "pt": "c7kyq7PvL39DLA=="
+ },
+ {
+  "call": "0x2c04",
+  "bl": "0xa7",
+  "len": 24,
+  "ct": "b0173a2821772900841e9ed6af91e3d7517a8a9c70c109f4",
+  "pt": "58F7sfaRLceWDr4JtzjLVKVX"
+ },
+ {
+  "call": "0x2c74",
+  "bl": "0x8b",
+  "len": 24,
+  "ct": "abc710825a6db157e3644628a421e7954dd3077842b38dea",
+  "pt": "x4szk5dQkTO4dhH9qPXuPWc="
+ },
+ {
+  "call": "0x2ceb",
+  "bl": "0x9",
+  "len": 28,
+  "ct": "9058dec05a1cee739f909ccfb40a6416bb5024cc10beae3ce536ecaa",
+  "pt": "6Ua/adP6eI5karU8UY2F7M/Xe6A="
+ },
+ {
+  "call": "0x2d54",
+  "bl": "0xc4",
+  "len": 24,
+  "ct": "ff4baeef975c36f9e13921ecd9076d8b5c47a80292db8f49",
+  "pt": "J0HXyTxa4bZFpsZY2vFJeg=="
+ },
+ {
+  "call": "0x2dbd",
+  "bl": "0xe0",
+  "len": 20,
+  "ct": "d8e3fcbf1f4ec43e2e982c75f6d1348f86851e0c",
+  "pt": "WCdFCdSxQnnzG44fr8bt"
+ },
+ {
+  "call": "0x2e16",
+  "bl": "0xd1",
+  "len": 16,
+  "ct": "aa55614f86598b45f2478dfbac11d59b",
+  "pt": "T369hd27cZ70P8k="
+ },
+ {
+  "call": "0x2e80",
+  "bl": "0x9c",
+  "len": 21,
+  "ct": "d9b501beac54a48514470f31922297f08837146800",
+  "pt": "\u00b6\b\u00d7\u00ee\u00b0\r\u00b0\r\u00d2\u0003\u00ae\u0016\u00c4\u00d6\u00ae\u0004\u0095\u0019\u009b\u00df/"
+ },
+ {
+  "call": "0x2edd",
+  "bl": "0x10",
+  "len": 20,
+  "ct": "26dad24fe2ab3960f25293f93b830e86f0c58ae0",
+  "pt": "jGDhTeagEEa/g8WSng=="
+ },
+ {
+  "call": "0x2f2f",
+  "bl": "0x27",
+  "len": 12,
+  "ct": "a9bdc0c7efcdd99859edba7c",
+  "pt": "Dd3Rh0EA89Nx"
+ },
+ {
+  "call": "0x2f9b",
+  "bl": "0xbc",
+  "len": 28,
+  "ct": "68779a55f93ca3a7dc38a3ed9c220d4a23385c4c7cd1a0566da3c56e",
+  "pt": "BnXAmZRFQjA9r06TO/VhzE/o9Q=="
+ },
+ {
+  "call": "0x2ff6",
+  "bl": "0xde",
+  "len": 16,
+  "ct": "59ef102cfb06832e0b8afe8040bb2f50",
+  "pt": "QYpies6qG8d3SPXp"
+ },
+ {
+  "call": "0x3056",
+  "bl": "0x86",
+  "len": 16,
+  "ct": "7ee78815aa2cbfbaf6da44f524c777f8",
+  "pt": "S4jZ1NXZzdUvhA=="
+ },
+ {
+  "call": "0x30af",
+  "bl": "0x51",
+  "len": 12,
+  "ct": "92ad890b9acd4ff537a3bd66",
+  "pt": "3klYxTivWQ9/"
+ },
+ {
+  "call": "0x311b",
+  "bl": "0xdc",
+  "len": 28,
+  "ct": "8bd3b1094a79e2f0641cf25bffc6e17480fbbac4df9bc64bfe04d136",
+  "pt": "kcwP7CylJ0QkRCt+hx02tUBbxAx8"
+ },
+ {
+  "call": "0x3176",
+  "bl": "0xea",
+  "len": 16,
+  "ct": "60c2fcf41e035d44d4ac9386b5e381dc",
+  "pt": "Ni3xANS8z8u7D9o="
+ },
+ {
+  "call": "0x31dd",
+  "bl": "0x66",
+  "len": 20,
+  "ct": "f7995b0f49955aa5a0eb661824eddc63ec2af4dc",
+  "pt": "giLEglepVWy86j6q1P5E"
+ },
+ {
+  "call": "0x322f",
+  "bl": "0xef",
+  "len": 12,
+  "ct": "d9dc062dd4280ac98df957ab",
+  "pt": "4MWEYjFLGHY="
+ },
+ {
+  "call": "0x3294",
+  "bl": "0x8a",
+  "len": 24,
+  "ct": "c4df0721722332967b27097cbac0486f7f241f8dd547feb7",
+  "pt": "gLsD0xOqBkZ2adWF75XvvEk="
+ },
+ {
+  "call": "0x32f6",
+  "bl": "0x80",
+  "len": 16,
+  "ct": "a34cb47698ee1e7161e373c10e6397d9",
+  "pt": "y8GswbSomMRQUk4="
+ },
+ {
+  "call": "0x3356",
+  "bl": "0xf8",
+  "len": 16,
+  "ct": "94c5f714cc043869a46f3ca1ae2262ad",
+  "pt": "ROLQ0QtZKjgpu2Qs"
+ },
+ {
+  "call": "0x33af",
+  "bl": "0x75",
+  "len": 12,
+  "ct": "ad4bc9593318d30df02c3642",
+  "pt": "Z2y1md54TuuL"
+ },
+ {
+  "call": "0x3406",
+  "bl": "0x7f",
+  "len": 16,
+  "ct": "0eb4549832fd21ae3c5250e2ef24155c",
+  "pt": "ux7PJoM2gmXr960="
+ },
+ {
+  "call": "0x345f",
+  "bl": "0x4f",
+  "len": 12,
+  "ct": "6cf94236c9bd4f86dc2722c0",
+  "pt": "NTJR3vB4aR5M"
+ },
+ {
+  "call": "0x34bd",
+  "bl": "0xc6",
+  "len": 20,
+  "ct": "67444b6c72cf4622cbf91ad7fd2919c38000c8c3",
+  "pt": "ImvB/ruIbAYYzW2qCg=="
+ },
+ {
+  "call": "0x350f",
+  "bl": "0x9c",
+  "len": 12,
+  "ct": "542ab13e4fec3ad67ca3393f",
+  "pt": "IQU09GdXtUzj"
+ },
+ {
+  "call": "0x3566",
+  "bl": "0x9f",
+  "len": 16,
+  "ct": "c2023084f36f88ace59ca2b7d0cd732d",
+  "pt": "6abUTDoHWrx4VQ=="
+ },
+ {
+  "call": "0x35db",
+  "bl": "0x74",
+  "len": 28,
+  "ct": "3a52e9b7caf3a677245517753550f9124ab8e45eeebd0bd0b841ff02",
+  "pt": "ltlczMjzD9K2vye7evFLVTvu5jKf"
+ },
+ {
+  "call": "0x3636",
+  "bl": "0x8",
+  "len": 16,
+  "ct": "8759be812ebd662b2806ee7421c1b08b",
+  "pt": "hCgfvL2bsxBIs08="
+ },
+ {
+  "call": "0x3696",
+  "bl": "0x4",
+  "len": 16,
+  "ct": "faf9c390beef69b45a560982652a7cdf",
+  "pt": "UQJOjOu6+dq9MA=="
+ },
+ {
+  "call": "0x36ef",
+  "bl": "0x16",
+  "len": 12,
+  "ct": "803598f5c7e5cf54bae9dcb8",
+  "pt": "Q+l173ujzQ=="
+ },
+ {
+  "call": "0x374d",
+  "bl": "0x3e",
+  "len": 20,
+  "ct": "b4710befe6ea5b59cea5beb01dfb897771cbcce9",
+  "pt": "xOhnl3pSXqoAkIsqQQ=="
+ },
+ {
+  "call": "0x37a6",
+  "bl": "0x60",
+  "len": 16,
+  "ct": "e7785cd7f557112ec332ca543163d638",
+  "pt": "GJiv0NrZlFDoexA="
+ },
+ {
+  "call": "0x380d",
+  "bl": "0x1e",
+  "len": 20,
+  "ct": "fae53fae2cdcc4b642c086716b5d47dd12e55f04",
+  "pt": "LmnlNfhnmClC2nu90Q=="
+ },
+ {
+  "call": "0x3866",
+  "bl": "0xa6",
+  "len": 16,
+  "ct": "aaa3c20f9e1d976bfae316095954d26c",
+  "pt": "L/c6NheKZD1oKIRB"
+ },
+ {
+  "call": "0x38d4",
+  "bl": "0x34",
+  "len": 24,
+  "ct": "5249bd36777e246cfd221e1ce4dc7571ae9bf31b2517eee2",
+  "pt": "cMn+rDWLGw1VZ22Ql4Dm8kX9"
+ },
+ {
+  "call": "0x3952",
+  "bl": "0xc7",
+  "len": 32,
+  "ct": "033d7cecfdf3ec805f0d129068306644c7545b4c1f2fe3cd0882122aa3b36845",
+  "pt": "F+cp4LyF9XLxg/8VF3BvZyYE07PF4Q=="
+ },
+ {
+  "call": "0x39b4",
+  "bl": "0x49",
+  "len": 24,
+  "ct": "5c2bb232bf686897b2a87c6709d6696f6895de393c0a1b30",
+  "pt": "XmU+FMnCGgU6mhH0fn4HCQ=="
+ },
+ {
+  "call": "0x3a24",
+  "bl": "0x3f",
+  "len": 24,
+  "ct": "2329061c7e2edb12d28d7dce97559343b5f113f6e4807482",
+  "pt": "h5LxFlNVY4BLg/8hI2h/Dzs="
+ },
+ {
+  "call": "0x3a94",
+  "bl": "0x59",
+  "len": 24,
+  "ct": "157f4fd3b71cca200f99cda115f9f138d69eb05f19495300",
+  "pt": "N5YD1DQtMZVDvMy5d1meEA=="
+ },
+ {
+  "call": "0x3b04",
+  "bl": "0xc7",
+  "len": 24,
+  "ct": "7b5150e6a5536c7f1ce7e412f242212f4094bc01a2cad699",
+  "pt": "T9uX2ZO/Pd8lkcmg+9+YyrVo"
+ },
+ {
+  "call": "0x3b74",
+  "bl": "0x3b",
+  "len": 24,
+  "ct": "674d784bbd094f7fc0b640fa48245758980cf37aee123b25",
+  "pt": "vL7QvkIjmyZFP+rzbdXdRg=="
+ },
+ {
+  "call": "0x3bd6",
+  "bl": "0xd1",
+  "len": 16,
+  "ct": "1d24ef098a39efd43f1768c2deac87f4",
+  "pt": "oNdChHbNrnjuBmAR"
+ },
+ {
+  "call": "0x3c44",
+  "bl": "0xae",
+  "len": 24,
+  "ct": "88c7abbbaebff321099cde6f3f5f29ff05108996100f2775",
+  "pt": "trdJldwU12E4HPGHFLQJhFUP"
+ },
+ {
+  "call": "0x3ca6",
+  "bl": "0xec",
+  "len": 16,
+  "ct": "36448a54c6e2fc98d965247326816f09",
+  "pt": "G9+VgTQPjcoUtqV4"
+ },
+ {
+  "call": "0x3d1b",
+  "bl": "0xa3",
+  "len": 28,
+  "ct": "d7f33660c8d9998be896dcc01cfc761ad45415ab71b0d45c7dcf722e",
+  "pt": "cU8TogI+WYuJS8neLUrY3er+Mg=="
+ },
+ {
+  "call": "0x3d7d",
+  "bl": "0x5e",
+  "len": 20,
+  "ct": "23510819d4e79def4c9e8b1fd6cd9585e1d5f8ea",
+  "pt": "liyuuImtpt++wLN9ug=="
+ },
+ {
+  "call": "0x3dd6",
+  "bl": "0xf9",
+  "len": 16,
+  "ct": "7c020e9a1ecc9cfd575222f48e1bd1e8",
+  "pt": "AZnRf5FNDjCzED5O"
+ },
+ {
+  "call": "0x3e36",
+  "bl": "0x75",
+  "len": 16,
+  "ct": "cb4711241ef8c81cf06e8e9962289036",
+  "pt": "npkJ2j476AsIPZ4="
+ },
+ {
+  "call": "0x3e96",
+  "bl": "0xc",
+  "len": 16,
+  "ct": "9b0a2a82dc3f2465afa0ebf8408e1a94",
+  "pt": "+mmSpfsQ8sMrSg=="
+ },
+ {
+  "call": "0x3f04",
+  "bl": "0x53",
+  "len": 24,
+  "ct": "8ee31d5bb7dfb293a09b751f175233fa8f770ec2991d3caa",
+  "pt": "tC7oNFU1mKFPfQxsMGvuag=="
+ },
+ {
+  "call": "0x8756",
+  "bl": "0x7e",
+  "len": 16,
+  "ct": "220b4fe2a897d5c24949b14ae7ef4bbe",
+  "pt": "n8F/qFx/aS095PY6"
+ },
+ {
+  "call": "0x87af",
+  "bl": "0xdd",
+  "len": 12,
+  "ct": "4ac48199e55ec9fedfed845c",
+  "pt": "PATHPING.EXE"
+ },
+ {
+  "call": "0x87ff",
+  "bl": "0x91",
+  "len": 12,
+  "ct": "bf555c92b71a55dc54c278e9",
+  "pt": "prevhost.exe"
+ },
+ {
+  "call": "0x884f",
+  "bl": "0xec",
+  "len": 12,
+  "ct": "50b68418db11320ef113f70b",
+  "pt": "msinfo32.exe"
+ },
+ {
+  "call": "0x88a6",
+  "bl": "0x68",
+  "len": 16,
+  "ct": "2ff6c0191ed3a0127c7160565a1d663e",
+  "pt": "TapiUnattend.exe"
+ },
+ {
+  "call": "0x88fe",
+  "bl": "0x7f",
+  "len": 11,
+  "ct": "4c35d93c4aff5d72229f05",
+  "pt": "certreq.exe"
+ },
+ {
+  "call": "0x894f",
+  "bl": "0x3",
+  "len": 12,
+  "ct": "81f683fcf70830421efc1f2d",
+  "pt": "mountvol.exe"
+ },
+ {
+  "call": "0x8998",
+  "bl": "0xc9",
+  "len": 8,
+  "ct": "8199ecec015b1635",
+  "pt": "help.exe"
+ },
+ {
+  "call": "0x89e9",
+  "bl": "0x73",
+  "len": 10,
+  "ct": "45ffebacb291a211e1b6",
+  "pt": "cipher.exe"
+ },
+ {
+  "call": "0x8a3d",
+  "bl": "0xb4",
+  "len": 9,
+  "ct": "e124318b50c87267dd",
+  "pt": "cmstp.exe"
+ },
+ {
+  "call": "0x8a8e",
+  "bl": "0xa8",
+  "len": 11,
+  "ct": "cab28667ff87e5fa656184",
+  "pt": "notepad.exe"
+ },
+ {
+  "call": "0x8ae0",
+  "bl": "0x54",
+  "len": 14,
+  "ct": "e4f72b20ef8d6664d9f2207f8c86",
+  "pt": "systeminfo.exe"
+ },
+ {
+  "call": "0x8b2f",
+  "bl": "0xa6",
+  "len": 12,
+  "ct": "4d461111e1d4d9a0b49899e9",
+  "pt": "AtBroker.exe"
+ },
+ {
+  "call": "0x8b7f",
+  "bl": "0x7f",
+  "len": 12,
+  "ct": "dc5d09e645fa138a5d435c9c",
+  "pt": "kernel32.dll"
+ },
+ {
+  "call": "0x8bcf",
+  "bl": "0xa3",
+  "len": 12,
+  "ct": "05ae500d87bb3f1ae1770556",
+  "pt": "advapi32.dll"
+ },
+ {
+  "call": "0x8c19",
+  "bl": "0xd",
+  "len": 10,
+  "ct": "0f03e3bed283370c198c",
+  "pt": "ws2_32.dll"
+ },
+ {
+  "call": "0x8c6f",
+  "bl": "0x42",
+  "len": 12,
+  "ct": "c9c7c535ee41899040fc8178",
+  "pt": "rstrtmgr.dll"
+ },
+ {
+  "call": "0x8cbe",
+  "bl": "0x7a",
+  "len": 11,
+  "ct": "6dc5cea4f86c54837d46d7",
+  "pt": "sqlite3.dll"
+ },
+ {
+  "call": "0x8d10",
+  "bl": "0xb8",
+  "len": 14,
+  "ct": "68667bfad8431f3cdb4411c44465",
+  "pt": "winsqlite3.dll"
+ },
+ {
+  "call": "0x8d5e",
+  "bl": "0xfb",
+  "len": 11,
+  "ct": "642c5b9ae0c8ee16a8da8d",
+  "pt": "crypt32.dll"
+ },
+ {
+  "call": "0x8daf",
+  "bl": "0x2f",
+  "len": 12,
+  "ct": "54124c76b4ddb38f1a2dd7a6",
+  "pt": "vaultcli.dll"
+ },
+ {
+  "call": "0x8dfd",
+  "bl": "0xca",
+  "len": 9,
+  "ct": "495468ccc08dc698bf",
+  "pt": "ole32.dll"
+ },
+ {
+  "call": "0x8e48",
+  "bl": "0xc8",
+  "len": 8,
+  "ct": "d1eebe11c12b0941",
+  "pt": "nss3.dll"
+ },
+ {
+  "call": "0x8e99",
+  "bl": "0xc",
+  "len": 10,
+  "ct": "2164c20747ab1170837f",
+  "pt": "user32.dll"
+ },
+ {
+  "call": "0x8eee",
+  "bl": "0x77",
+  "len": 11,
+  "ct": "b05801f7995919e1bcfd98",
+  "pt": "shell32.dll"
+ },
+ {
+  "call": "0x8f3f",
+  "bl": "0xc3",
+  "len": 12,
+  "ct": "c8b1a71f22361d77e2238f04",
+  "pt": "oleaut32.dll"
+ },
+ {
+  "call": "0x8f87",
+  "bl": "0xf0",
+  "len": 7,
+  "ct": "0ffb0a29b7c37a",
+  "pt": "Kahoot!"
+ },
+ {
+  "call": "0x8fd8",
+  "bl": "0xb5",
+  "len": 8,
+  "ct": "b52ff0a1d813276e",
+  "pt": "USERNAME"
+ },
+ {
+  "call": "0x902f",
+  "bl": "0x21",
+  "len": 12,
+  "ct": "c022dfd3b7840da5042756e5",
+  "pt": "LOCALAPPDATA"
+ },
+ {
+  "call": "0x907e",
+  "bl": "0xa8",
+  "len": 11,
+  "ct": "396a07b08710ae42c115a4",
+  "pt": "USERPROFILE"
+ },
+ {
+  "call": "0x90c7",
+  "bl": "0xe5",
+  "len": 7,
+  "ct": "a07698dbc10449",
+  "pt": "APPDATA"
+ },
+ {
+  "call": "0x9111",
+  "bl": "0x28",
+  "len": 4,
+  "ct": "5b1406b9",
+  "pt": "TEMP"
+ },
+ {
+  "call": "0x915f",
+  "bl": "0x1f",
+  "len": 12,
+  "ct": "94b1b2124be7fec87edba4b9",
+  "pt": "COMPUTERNAME"
+ },
+ {
+  "call": "0x91af",
+  "bl": "0xe9",
+  "len": 12,
+  "ct": "e3e5839f66cdef3c0640af4d",
+  "pt": "ProgramFiles"
+ },
+ {
+  "call": "0x91f1",
+  "bl": "0x9e",
+  "len": 4,
+  "ct": "12e46a7e",
+  "pt": "\\Run"
+ },
+ {
+  "call": "0x923d",
+  "bl": "0x87",
+  "len": 9,
+  "ct": "099db03596ad4694a9",
+  "pt": "\\Policies"
+ },
+ {
+  "call": "0x928d",
+  "bl": "0xe0",
+  "len": 9,
+  "ct": "d50fdac7fa37933973",
+  "pt": "\\Explorer"
+ },
+ {
+  "call": "0x92e0",
+  "bl": "0x8d",
+  "len": 14,
+  "ct": "2c8eb336d0808634bcbcb4668b68",
+  "pt": "\\Registry\\User"
+ },
+ {
+  "call": "0x933d",
+  "bl": "0x8a",
+  "len": 17,
+  "ct": "814faf14814e4b3fae4608610e16681963",
+  "pt": "\\Registry\\Machine"
+ },
+ {
+  "call": "0x93c1",
+  "bl": "0xf7",
+  "len": 42,
+  "ct": "1368f757c2f461c090479c2557f42d113df64aee45f5fef620c23e85c0935683a8d2a7b264026092f4d4",
+  "pt": "\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion"
+ },
+ {
+  "call": "0x943e",
+  "bl": "0x34",
+  "len": 37,
+  "ct": "3c14a3fe20953d97c10dd14c236561825f6a62c4eb7c8b7bf008a14a88265e3bb215e92eb9",
+  "pt": "Office\\15.0\\Outlook\\Profiles\\Outlook\\"
+ },
+ {
+  "call": "0x94ea",
+  "bl": "0xde",
+  "len": 64,
+  "ct": "0488d4b9d978474dc1ecaa7dfe8d7c0157ae95291059123acf7cc29a4bbc9ec142bedea5b0b0e6ab534b86038d9dd102cbc7b9126f1cdd3f7c50bd2f74dcbc51",
+  "pt": " NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\"
+ },
+ {
+  "call": "0x9555",
+  "bl": "0xee",
+  "len": 26,
+  "ct": "48f28c648cd7ccb865c62e231cf88bf3e3e77323ae53a4ceba02",
+  "pt": "\\SOFTWARE\\Mozilla\\Mozilla "
+ },
+ {
+  "call": "0x95a8",
+  "bl": "0x7",
+  "len": 8,
+  "ct": "d4cec0839ef52d78",
+  "pt": "\\Mozilla"
+ },
+ {
+  "call": "0x95f9",
+  "bl": "0x91",
+  "len": 10,
+  "ct": "3accd8069d903f595c9b",
+  "pt": "Username: "
+ },
+ {
+  "call": "0x9649",
+  "bl": "0x67",
+  "len": 10,
+  "ct": "e115ad09e42cae3d204c",
+  "pt": "Password: "
+ },
+ {
+  "call": "0x96a6",
+  "bl": "0xb5",
+  "len": 13,
+  "ct": "6a732b86d1aff892342b8d4d6d",
+  "pt": "formSubmitURL"
+ },
+ {
+  "call": "0x9704",
+  "bl": "0xc6",
+  "len": 13,
+  "ct": "c70e98601fd4461e43e9e22ab3",
+  "pt": "usernameField"
+ },
+ {
+  "call": "0x976d",
+  "bl": "0x53",
+  "len": 17,
+  "ct": "315cefb0ee43b1318787961c5dbf78de05",
+  "pt": "encryptedUsername"
+ },
+ {
+  "call": "0x97cb",
+  "bl": "0x5f",
+  "len": 17,
+  "ct": "53d45245a0825a21dbf5e9cbbeb03ab8a5",
+  "pt": "encryptedPassword"
+ },
+ {
+  "call": "0x981f",
+  "bl": "0x4f",
+  "len": 12,
+  "ct": "ae759b93a30dd248932aece3",
+  "pt": "\\logins.json"
+ },
+ {
+  "call": "0x9862",
+  "bl": "0x81",
+  "len": 6,
+  "ct": "37956ae53b7c",
+  "pt": "\\Mail\\"
+ },
+ {
+  "call": "0x98a8",
+  "bl": "0x8",
+  "len": 8,
+  "ct": "b9baf8791b96f7fb",
+  "pt": "\\Foxmail"
+ },
+ {
+  "call": "0x98fd",
+  "bl": "0x1",
+  "len": 9,
+  "ct": "b423f29f55ca7b2f35",
+  "pt": "\\Storage\\"
+ },
+ {
+  "call": "0x995e",
+  "bl": "0xda",
+  "len": 22,
+  "ct": "c9fbb8e86143d32ff051ee52002557dea6ec48e65e12",
+  "pt": "\\Accounts\\Account.rec0"
+ },
+ {
+  "call": "0x99c5",
+  "bl": "0xb7",
+  "len": 26,
+  "ct": "2013c0577ad7a05ae2af9e47350eb5ef5fe849d0ff8b212459dd",
+  "pt": "\\Data\\AccCfg\\Accounts.tdat"
+ },
+ {
+  "call": "0x9a4a",
+  "bl": "0xd7",
+  "len": 38,
+  "ct": "117fa4e8d8eba75d6c677a04953fe55c342018d668cfa391ad3d0827aec6ad8c232a85688a59",
+  "pt": "\\Microsoft\\Edge\\Application\\msedge.exe"
+ },
+ {
+  "call": "0x9ad0",
+  "bl": "0x7f",
+  "len": 37,
+  "ct": "412df6e1c164af3e4615f8f935ed83faf3a9d82afdfea2a9f8438e4c788b817bfd44b75d63",
+  "pt": "\\Google\\Chrome\\Application\\chrome.exe"
+ },
+ {
+  "call": "0x9b58",
+  "bl": "0xd5",
+  "len": 43,
+  "ct": "fa9353ba5748504ab9a6f5b7db8036f0a3ae333a60eae074d4064b20cec6438d03fe69035a57806796d481",
+  "pt": "\\Google\\Chrome\\User Data\\Default\\Login Data"
+ },
+ {
+  "call": "0x9c0a",
+  "bl": "0xbc",
+  "len": 61,
+  "ct": "354c76993396b5b29f9bad99ec6522f81cdb6a6185d14523991b79908b9751c5e900bff441fb26d9a32f6a12d95d8157c4413f6406e0cd7f3ae2652b7d",
+  "pt": "SELECT origin_url, username_value, password_value FROM logins"
+ },
+ {
+  "call": "0x9c6e",
+  "bl": "0x45",
+  "len": 19,
+  "ct": "47cc5d154819db19de97d8b3a6ad747af39a9f",
+  "pt": "SeShutdownPrivilege"
+ },
+ {
+  "call": "0x9ccb",
+  "bl": "0x1",
+  "len": 17,
+  "ct": "369c39d5d8eb7319261ac1e19f787dfad1",
+  "pt": "\\BaseNamedObjects"
+ },
+ {
+  "call": "0x9d16",
+  "bl": "0xd0",
+  "len": 5,
+  "ct": "7f358849a5",
+  "pt": "POST "
+ },
+ {
+  "call": "0x9d6e",
+  "bl": "0x87",
+  "len": 11,
+  "ct": "358dcb590fe1fed39700f7",
+  "pt": " HTTP/1.1\r\n"
+ },
+ {
+  "call": "0x9db2",
+  "bl": "0x3d",
+  "len": 6,
+  "ct": "11e0c837539f",
+  "pt": "Host: "
+ },
+ {
+  "call": "0x9e0b",
+  "bl": "0xfd",
+  "len": 17,
+  "ct": "d0fe70d7258c97f0e7d4b3cdf5eea4afca",
+  "pt": "Connection: close"
+ },
+ {
+  "call": "0x9e66",
+  "bl": "0xc6",
+  "len": 16,
+  "ct": "b74401fc6e19cd847fdbc74bf940fb20",
+  "pt": "Content-Length: "
+ },
+ {
+  "call": "0x9ec5",
+  "bl": "0x3c",
+  "len": 15,
+  "ct": "28f83fa1d90c92603c33940fd7b267",
+  "pt": "Cache-Control: "
+ },
+ {
+  "call": "0x9f25",
+  "bl": "0x9c",
+  "len": 15,
+  "ct": "f8a7e7cf89ffda1842e0912b54b3fa",
+  "pt": "Origin: http://"
+ },
+ {
+  "call": "0x9fc5",
+  "bl": "0xa5",
+  "len": 49,
+  "ct": "703da36905ac3c702e8e53c878f0db75c95b9778f564fe840ec61d7f5b1a7d31cbbee75a25d9af65ae2f9e2b656b80013d",
+  "pt": "Content-Type: application/x-www-form-urlencoded\r\n"
+ },
+ {
+  "call": "0xa018",
+  "bl": "0xc3",
+  "len": 8,
+  "ct": "0ea2951f679a5cc5",
+  "pt": "Accept: "
+ },
+ {
+  "call": "0xa076",
+  "bl": "0xab",
+  "len": 16,
+  "ct": "da17f63961559b4ced54baadd78785aa",
+  "pt": "Referer: http://"
+ },
+ {
+  "call": "0xa0db",
+  "bl": "0x5a",
+  "len": 17,
+  "ct": "501bf3f693765d561e8535bf4ababcea1c",
+  "pt": "Accept-Language: "
+ },
+ {
+  "call": "0xa13b",
+  "bl": "0x86",
+  "len": 17,
+  "ct": "72fa735c69c464afc03748419f06cfe593",
+  "pt": "Accept-Encoding: "
+ },
+ {
+  "call": "0xa1d6",
+  "bl": "0x8",
+  "len": 51,
+  "ct": "049b1522a999e1f276da5dce3c41b74e8f4d18164a0112f809bb4dc713bfd8a8a2f8f7294e96b9f49b15c88e165927a2a1807f",
+  "pt": "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
+ },
+ {
+  "call": "0xa234",
+  "bl": "0x64",
+  "len": 13,
+  "ct": "e17812ca54ea2ecc142b0d433b",
+  "pt": "-noexit \"& \"\""
+ },
+ {
+  "call": "0xa290",
+  "bl": "0xda",
+  "len": 14,
+  "ct": "3d29849a8ce5f56ed7dd1900bb4b",
+  "pt": "PowerShell.exe"
+ },
+ {
+  "call": "0xa2fb",
+  "bl": "0x4e",
+  "len": 28,
+  "ct": "3919ece0876054db929d2f99a55c0dcad81a9bcc28128b808bd48037",
+  "pt": "\\Opera Software\\Opera Stable"
+ },
+ {
+  "call": "0xa34f",
+  "bl": "0x1b",
+  "len": 12,
+  "ct": "b444c432799708ef62a06a10",
+  "pt": "kernel32.dll"
+ },
+ {
+  "call": "0xa399",
+  "bl": "0xbd",
+  "len": 10,
+  "ct": "855db3eb038c42af7421",
+  "pt": "user32.dll"
+ },
+ {
+  "call": "0xa3ee",
+  "bl": "0x89",
+  "len": 11,
+  "ct": "4a83f29f0aa7216ab06350",
+  "pt": "wininet.dll"
+ },
+ {
+  "call": "0xa429",
+  "bl": "0xef",
+  "len": 2,
+  "ct": "3ca3",
+  "pt": "\r\n"
+ },
+ {
+  "call": "0xa472",
+  "bl": "0x34",
+  "len": 6,
+  "ct": "c7e781184367",
+  "pt": "rg.ini"
+ },
+ {
+  "call": "0xa4be",
+  "bl": "0x17",
+  "len": 11,
+  "ct": "4d06f67c36dc43512196ba",
+  "pt": " Recovery\r\n"
+ },
+ {
+  "call": "0xa50f",
+  "bl": "0x3b",
+  "len": 12,
+  "ct": "71271038c62a4fa2eb6e80d1",
+  "pt": "profiles.ini"
+ },
+ {
+  "call": "0xa551",
+  "bl": "0x2e",
+  "len": 4,
+  "ct": "7f7b1d4c",
+  "pt": "guid"
+ },
+ {
+  "call": "0xa591",
+  "bl": "0xf1",
+  "len": 4,
+  "ct": "984de3a7",
+  "pt": "\r\n\r\n"
+ },
+ {
+  "call": "0xa5f3",
+  "bl": "0xae",
+  "len": 23,
+  "ct": "5379da6c06c3bf19b249ba775b39932962fdffe7089ec2",
+  "pt": "\r\nConnection: close\r\n\r\n"
+ },
+ {
+  "call": "0xa641",
+  "bl": "0xd3",
+  "len": 4,
+  "ct": "996c7253",
+  "pt": "pass"
+ },
+ {
+  "call": "0xa686",
+  "bl": "0xd9",
+  "len": 5,
+  "ct": "48f7466feb",
+  "pt": "token"
+ },
+ {
+  "call": "0xa6d6",
+  "bl": "0x19",
+  "len": 5,
+  "ct": "da34b98df9",
+  "pt": "email"
+ },
+ {
+  "call": "0xa726",
+  "bl": "0x54",
+  "len": 5,
+  "ct": "a7391701ec",
+  "pt": "login"
+ },
+ {
+  "call": "0xa772",
+  "bl": "0xdf",
+  "len": 6,
+  "ct": "3797b1364c35",
+  "pt": "signin"
+ },
+ {
+  "call": "0xa7b9",
+  "bl": "0xfb",
+  "len": 7,
+  "ct": "9c6f77fb6f730a",
+  "pt": "account"
+ },
+ {
+  "call": "0xa809",
+  "bl": "0x1c",
+  "len": 10,
+  "ct": "20a831d31f9463f6fc5c",
+  "pt": "persistent"
+ },
+ {
+  "call": "0xa852",
+  "bl": "0x4d",
+  "len": 3,
+  "ct": "090980",
+  "pt": "GET"
+ },
+ {
+  "call": "0xa891",
+  "bl": "0x2d",
+  "len": 4,
+  "ct": "83ac23fa",
+  "pt": "GET "
+ },
+ {
+  "call": "0xa8d0",
+  "bl": "0xa3",
+  "len": 3,
+  "ct": "08b796",
+  "pt": "PUT"
+ },
+ {
+  "call": "0xa911",
+  "bl": "0xb4",
+  "len": 4,
+  "ct": "3a6ab1cb",
+  "pt": "POST"
+ },
+ {
+  "call": "0xa957",
+  "bl": "0x18",
+  "len": 7,
+  "ct": "7ff576805815a0",
+  "pt": "OPTIONS"
+ },
+ {
+  "call": "0xa9af",
+  "bl": "0x53",
+  "len": 12,
+  "ct": "75a941407a52d28dd1aed309",
+  "pt": "User-Agent: "
+ },
+ {
+  "call": "0xa9f1",
+  "bl": "0xd9",
+  "len": 4,
+  "ct": "27a676f5",
+  "pt": "API-"
+ },
+ {
+  "call": "0xaa31",
+  "bl": "0x54",
+  "len": 4,
+  "ct": "ca41993b",
+  "pt": "MS-W"
+ },
+ {
+  "call": "0xaa79",
+  "bl": "0xac",
+  "len": 10,
+  "ct": "32c79694b02ad9cdce10",
+  "pt": "_301 Moved"
+ },
+ {
+  "call": "0xaac9",
+  "bl": "0x7e",
+  "len": 10,
+  "ct": "41a27ff54399d0826858",
+  "pt": "_302 Found"
+ },
+ {
+  "call": "0xab24",
+  "bl": "0xec",
+  "len": 13,
+  "ct": "a4ebbd9ba7e0c828706e5254db",
+  "pt": "InternetOpenA"
+ },
+ {
+  "call": "0xab86",
+  "bl": "0xa6",
+  "len": 16,
+  "ct": "535605945acf4f04af245db8e7c6b86f",
+  "pt": "InternetConnectA"
+ },
+ {
+  "call": "0xabe6",
+  "bl": "0x5b",
+  "len": 16,
+  "ct": "572c14be81df6540d868f156fe150235",
+  "pt": "HttpOpenRequestA"
+ },
+ {
+  "call": "0xac46",
+  "bl": "0xc1",
+  "len": 16,
+  "ct": "e7baa6ac792611947afe7f55a2bd4d24",
+  "pt": "HttpSendRequestA"
+ },
+ {
+  "call": "0xaca6",
+  "bl": "0x6e",
+  "len": 16,
+  "ct": "be7a74df933d00532350e26ff9d12e78",
+  "pt": "InternetReadFile"
+ },
+ {
+  "call": "0xad0c",
+  "bl": "0x7d",
+  "len": 19,
+  "ct": "080300cbb83970feb031161363cb4cf1438358",
+  "pt": "InternetCloseHandle"
+ }
+]

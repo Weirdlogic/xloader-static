@@ -1,0 +1,70 @@
+candidates: 7256
+FUN_00026d30 -> solved
+FUN_00026f40 -> solved
+FUN_000269b0 -> solved
+FUN_00027330 -> solved
+FUN_00026b10 -> solved
+FUN_000273b0 -> solved
+FUN_000267a0 -> no key
+FUN_000272b0 -> solved
+FUN_00027430 -> solved
+FUN_000274b0 -> solved
+FUN_00027530 -> solved
+FUN_00027b20 -> solved
+FUN_000275a0 -> no key
+FUN_000278a0 -> no key
+FUN_00027ba0 -> solved
+FUN_00027c90 -> solved
+FUN_00027e80 -> no key
+FUN_000279a0 -> no key
+FUN_00027f80 -> solved
+FUN_00028000 -> solved
+FUN_000281f0 -> solved
+FUN_00027d10 -> solved
+FUN_00027c20 -> solved
+FUN_000284c0 -> solved
+FUN_000282e0 -> solved
+FUN_000286b0 -> solved
+FUN_000287d0 -> solved
+FUN_00028270 -> solved
+FUN_00028bf0 -> solved
+FUN_000285a0 -> solved
+FUN_000289f0 -> no key
+FUN_000283c0 -> no key
+FUN_00028d70 -> no key
+FUN_00028f50 -> no key
+FUN_00029130 -> solved
+FUN_000290a0 -> solved
+FUN_00028df0 -> no key
+FUN_000291a0 -> solved
+FUN_00028fc0 -> no key
+FUN_00029300 -> no key
+FUN_000269b0 -> 0x16370 decrypted 0x1637a - 0x169ea c60 0x2bc0cdf0
+FUN_00026b10 -> 0x11e70 decrypted 0x11e7b - 0x12306 c60 0xc4db8a3c
+FUN_00026d30 -> 0x230a0 decrypted 0x230a6 - 0x23308 c60 0x62bfe40
+FUN_00026f40 -> 0x16a00 decrypted 0x16a09 - 0x16bf2 c60 0x323bea28
+FUN_000272b0 -> 0x13970 decrypted 0x1397b - 0x13d58 c60 0xf4bc24f8
+FUN_00027330 -> 0x13d70 decrypted 0x13d7b - 0x13e2c c60 0x341d2c74
+FUN_000273b0 -> 0x13e40 decrypted 0x13e4b - 0x13fe2 c60 0x519ed130
+FUN_00027430 -> 0x14000 decrypted 0x14006 - 0x14164 c60 0x9ce99404
+FUN_000274b0 -> 0x2b730 decrypted 0x2b739 - 0x2b92e c60 0xd5348711
+FUN_00027530 -> 0x2ae80 decrypted 0x2ae89 - 0x2afec c60 0xf6a8de40
+FUN_00027b20 -> 0x25aa0 decrypted 0x25aab - 0x25ff9 c60 0x34ee2544
+FUN_00027ba0 -> 0x114d0 decrypted 0x114d5 - 0x115b2 c60 0xdb2c9244
+FUN_00027c20 -> 0x115d0 decrypted 0x115d7 - 0x11690 c60 0x95170e15
+FUN_00027c90 -> 0x11810 decrypted 0x1181a - 0x11916 c60 0x64369420
+FUN_00027d10 -> 0x156a0 decrypted 0x156a9 - 0x15772 c60 0xc0f3eca0
+FUN_00027f80 -> 0x236a0 decrypted 0x236ab - 0x23798 c60 0x5cc468c8
+FUN_00028000 -> 0x11230 decrypted 0x11236 - 0x113b0 c60 0x1493e540
+FUN_000281f0 -> 0x21d00 decrypted 0x21d0b - 0x21e58 c60 0x10ec8180
+FUN_00028270 -> 0x1ae30 decrypted 0x1ae3b - 0x1b05c c60 0xcee1eae8
+FUN_000282e0 -> 0x1e2a0 decrypted 0x1e2ac - 0x1e595 c60 0x60931812
+FUN_000284c0 -> 0x1d890 decrypted 0x1d89c - 0x1dbfb c60 0x4c342e7c
+FUN_000285a0 -> 0x1f2c0 decrypted 0x1f2cc - 0x1f44a c60 0x8a4a7e3c
+FUN_000286b0 -> 0x1ead0 decrypted 0x1eadb - 0x1ecb9 c60 0x238f27a6
+FUN_000287d0 -> 0x1f460 decrypted 0x1f46c - 0x1f7f5 c60 0x932cf3c
+FUN_00028bf0 -> 0x20520 decrypted 0x2052c - 0x208ad c60 0xb85d6760
+FUN_000290a0 -> 0x8440 decrypted 0x844a - 0x8666 c60 0x826552ce
+FUN_00029130 -> 0x144e0 decrypted 0x144eb - 0x14630 c60 0x84d4c04
+FUN_000291a0 -> 0x7f50 decrypted 0x7f5b - 0x80fc c60 0xf095b500
+decrypted 28 of 40 wrappers

@@ -1,0 +1,46 @@
+// Title:   .NET steganographic loader execution (Formbook delivery chain)
+// Report:  reports/formbook/2026-10-13-0404070ceb26/report.md
+// Product: Microsoft Defender XDR advanced hunting (also works in Sentinel with MDE tables)
+// ATT&CK:  T1204.002 User Execution: Malicious File; T1027.003 Steganography;
+//          T1620 Reflective Code Loading
+// Status:  DRAFT hunting query - built from static analysis of one sample.
+//          Not yet validated against live telemetry; tune the path list before
+//          turning it into a custom detection.
+//
+// Logic: an unsigned-looking .NET GUI binary started from a user-writable or
+// mail/archive path, whose PE version info is builder-shaped (OriginalFileName
+// of 3-6 letters that differs from the on-disk name, empty company/product/
+// description), which then loads Microsoft.VisualBasic (used for the
+// CallByName(AppDomain, "Load") trick) and System.Drawing (used to read the
+// payload out of bitmap pixels) within two minutes of starting.
+let lookback = 7d;
+let userPaths = dynamic([@"\Users\", @"\AppData\Local\Temp\", @"\Downloads\",
+    @"\Content.Outlook\", @"\INetCache\", @"\Desktop\"]);
+let candidates =
+    DeviceProcessEvents
+    | where Timestamp > ago(lookback)
+    | where FolderPath has_any (userPaths)
+    | where ProcessVersionInfoOriginalFileName matches regex @"^[A-Za-z]{3,6}\.exe$"
+    | where ProcessVersionInfoOriginalFileName !~ FileName
+    | where isempty(ProcessVersionInfoCompanyName)
+        and isempty(ProcessVersionInfoProductName)
+        and isempty(ProcessVersionInfoFileDescription)
+    | project DeviceId, DeviceName, ProcessId, ProcessCreationTime = Timestamp,
+              FileName, FolderPath, SHA256, ProcessCommandLine,
+              OriginalFileName = ProcessVersionInfoOriginalFileName,
+              ParentProcess = InitiatingProcessFileName, AccountName;
+let loads =
+    DeviceImageLoadEvents
+    | where Timestamp > ago(lookback)
+    | where FileName startswith "Microsoft.VisualBasic" or FileName startswith "System.Drawing"
+    | project DeviceId, ProcessId = InitiatingProcessId,
+              ProcessCreationTime = InitiatingProcessCreationTime,
+              LoadTime = Timestamp, Dll = FileName;
+candidates
+| join kind=inner loads on DeviceId, ProcessId, ProcessCreationTime
+| where LoadTime between (ProcessCreationTime .. ProcessCreationTime + 2m)
+| summarize Dlls = make_set(Dll), FirstLoad = min(LoadTime)
+    by DeviceName, FileName, FolderPath, SHA256, OriginalFileName,
+       ParentProcess, AccountName, ProcessCommandLine, ProcessCreationTime
+| where Dlls has "Microsoft.VisualBasic" and Dlls has "System.Drawing"
+| order by ProcessCreationTime desc
