@@ -4,7 +4,9 @@ Static analysis of a five-stage loader chain that delivers an XLoader 8.x-style 
 (sample SHA-256 `0404070ceb269b1590a7d600bf02f47ed8559d02ef247d54f491ccd529828f26`, first seen 2026-10-12).
 Every stage was unpacked and decrypted without running the sample, down to the C2 configuration.
 
-**Full report:** [reports/formbook/2026-10-13-0404070ceb26/report.md](reports/formbook/2026-10-13-0404070ceb26/report.md)
+**Read the write-up:** [ARTICLE.md](ARTICLE.md)
+
+**Full technical report:** [reports/formbook/2026-10-13-0404070ceb26/report.md](reports/formbook/2026-10-13-0404070ceb26/report.md)
 
 ## Results
 
